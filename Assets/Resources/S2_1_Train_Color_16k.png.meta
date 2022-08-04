@@ -1,0 +1,5382 @@
+fileFormatVersion: 2
+guid: 5e61df2bea905ae409747d5d9c5de2b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6928
+        width: 3440
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1fc413817c25d47a586ebe0559c684
+      internalID: 11192531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_1
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 7984
+        width: 152
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a7723553550942a57dd362f933835
+      internalID: -55036770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_2
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 7992
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66b65c1a173dc4eb7bff109e4ccd5e
+      internalID: 1928347585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_3
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 8032
+        width: 212
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a58b6863e11f49bcef56299ddd9ae
+      internalID: 887858539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_4
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 7936
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f41468320c92b4ba79bfbe8c11c903
+      internalID: -511620299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_5
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 7848
+        width: 224
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6286eb8c2664f14b8d0782df6f23dd3
+      internalID: -117456310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_6
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 7784
+        width: 2724
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc37a1942820ca746bf9f311c7e0a4a9
+      internalID: -746907572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_7
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 7804
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a4e43bc008154f97ebccba6dbdefb
+      internalID: -734134481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_8
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 7824
+        width: 168
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae5a2375ca58ea46915e3713219ccc6
+      internalID: 560180844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_9
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 7844
+        width: 220
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53888333ca9186a4bb4af21ef3a09def
+      internalID: -458606363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_10
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 7824
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e98067329734f241b629ecb4d0eb04d
+      internalID: 2079228563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_11
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 7800
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d729c0da2312742b11d019b15c37d1
+      internalID: 2027224730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_12
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 7608
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47dfca28158664fa216d8321a7eca5
+      internalID: -257526950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_13
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7624
+        width: 240
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717764b14df9c44aa70c5cc5a1af65a
+      internalID: 1099928197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_14
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 7588
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb89b5a36413fd43aa73415841c7c6f
+      internalID: -1904478279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_15
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 7664
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a65d1ad64efd49a8b7813f3eba5f1
+      internalID: -1867820970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_16
+      rect:
+        serializedVersion: 2
+        x: 4988
+        y: 7744
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1896dc73d1b541b2e7e16a8785e76
+      internalID: -201108665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_17
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 6484
+        width: 2600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c62ce601518348b60029193c01889
+      internalID: -86896312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_18
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 7632
+        width: 232
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa8c58994738484784ba975b487fded
+      internalID: -1936597522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_19
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 7428
+        width: 1036
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2ec6b87147dd4b9d54a53e1ee55ff
+      internalID: -1671684110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_20
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 7276
+        width: 1004
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076094e353acd7d479c780f77e3c198b
+      internalID: -1525820103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_21
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 7068
+        width: 760
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a6a457a8e7204fb3bee06470813a5
+      internalID: -1376209751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_22
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 7052
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4298a50a8d8ae741a9a29cc179a3ea7
+      internalID: 637114616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6540
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89f20d00709c84ba1906f085c9c163
+      internalID: 340924470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 6828
+        width: 440
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113168ecef930984dbcbde0e85963afe
+      internalID: 1213201514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_25
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6236
+        width: 700
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54880dfb31483954ebf9b368a99b1073
+      internalID: -642449698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_26
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 6544
+        width: 1296
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686873d142dd3764e9d0ab9c910a22dd
+      internalID: -1425859755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_27
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 6868
+        width: 752
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e0a28d4e0a1d43a3adeaa9f92dc62
+      internalID: -1978007220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_28
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 6824
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3abc64bfb19349b4aabae45245109
+      internalID: 1372592403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 6756
+        width: 300
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763febd00f44444429bd6449b59b242a
+      internalID: -518123806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_30
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 6716
+        width: 732
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbecb0dc36934254a80c5d0b06d1ad90
+      internalID: 5088434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_31
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 6844
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dab2f1ead547f46891ce7c92a73828
+      internalID: -1283188157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_32
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 6572
+        width: 328
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658eb1fc764b8e47b5ebf90e57af722
+      internalID: -1481699007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_33
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 6704
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ce6033ab479448b5fe8efbb77a1bc
+      internalID: -2055371628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_34
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 6760
+        width: 392
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192febd25bbd1a04ab6f03a91c2a9b70
+      internalID: -34382453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_35
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 6620
+        width: 252
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbd173249cc284a90163b70f013891
+      internalID: -513338941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 6608
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057f4b8408b86e4897d61cb8adc7692
+      internalID: -977856196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 6440
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89af70c4755766c4f84fdef06d51928a
+      internalID: -642797590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_38
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 6728
+        width: 452
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39855485e3d5e9c4b9d2dec0b40968ee
+      internalID: 2039308061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 6572
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0980af28ce1ff4eabdc5c5a75047dc
+      internalID: -300958384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_40
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 6576
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95887aed6c56844c8ea8a9cc95ce54b
+      internalID: 620249716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_41
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 6456
+        width: 416
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5695a0a963db28a4cbbd60eb9b35e6c0
+      internalID: -1585332078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_42
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5872
+        width: 712
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b97c8c44649d144bd3b365f32955b3
+      internalID: -69542938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_43
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 6380
+        width: 252
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6136bb9c27404b8632b601e2fb821
+      internalID: 62662472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_44
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 6380
+        width: 252
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73045b00bc52eff48aaf1dcaa09b760d
+      internalID: 106406658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6152
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eabf07f0cff394dac00b0aca42b6ab
+      internalID: -1162585552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6500
+        width: 492
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e5e80ede09fbd45bd2466224471cec
+      internalID: 1820318099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_47
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 6004
+        width: 916
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5759709c6ac14f8540ee2d1f3f83d
+      internalID: -2029533482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 6192
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c51495b54f3874d9e377f62274a2eb
+      internalID: -58114878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_49
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 6368
+        width: 568
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4cb46ba69eb844299e136b91c0d006
+      internalID: -92841046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_50
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 5876
+        width: 196
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08384a6487a44304fa8568cc808242f2
+      internalID: -1656507325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_51
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 5880
+        width: 188
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849b8cc56fc03a43ad5d827e8681e52
+      internalID: 1234599235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_52
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 5692
+        width: 2396
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b34bdcd18d11a4a8baa7e5b252681b
+      internalID: 1072980790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 6268
+        width: 556
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fc95f703dc194583ef0fbae60104d
+      internalID: -372875041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_54
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6192
+        width: 916
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f91f7fc360334596a2a41632e2b0e
+      internalID: -2110759483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_55
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 5928
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd77a8ec283b0146815e447560fbaf3
+      internalID: 967401920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5320
+        width: 1852
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d00e0d57f51a4f8eff732bed85c96
+      internalID: 445774177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_57
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 5652
+        width: 200
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c042516d9e29a4ea18c7af45a50bfc
+      internalID: 1447227861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_58
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5652
+        width: 672
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0da10917ba03341a69d23546d27828
+      internalID: 873729465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_59
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 5652
+        width: 212
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfe9457fba7a1489f7f16be2d8e36a
+      internalID: 1558742308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_60
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 5872
+        width: 124
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3579ec46bc5b2a748889ea3c7ecf7dd1
+      internalID: -1568437997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_61
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5684
+        width: 168
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b016d91af198a94d932e04145a7f137
+      internalID: -966444966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_62
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 5684
+        width: 168
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d5501521e5d3f4ead344e35523054c
+      internalID: -951362997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_63
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 5660
+        width: 92
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d14cbe970639941aa00b43d29a0859
+      internalID: -1683367129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_64
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 5656
+        width: 140
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49bc2197d13c2946868bf408d20c5e3
+      internalID: -998035454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_65
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 5660
+        width: 92
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92e556c6808a64789a0ba0cddcd5c3
+      internalID: -825863885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_66
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 5656
+        width: 80
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5544a537e162941ab8ffe1f00a9d5f
+      internalID: -746666225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_67
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 5652
+        width: 100
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4f7223d37b7445a71a59fd7c03de3
+      internalID: -1532566298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_68
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 5652
+        width: 156
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16750414531d3a74ab20b5341a9028c9
+      internalID: 1077737339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_69
+      rect:
+        serializedVersion: 2
+        x: 4924
+        y: 5472
+        width: 448
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73f6ce42861a644a56380a457934a5
+      internalID: 292744182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_70
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 5400
+        width: 340
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2069409f7ca04134ba0d2074d927e2a2
+      internalID: 320708215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_71
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 4896
+        width: 2412
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636994a8beee34d479b05b5a50eb3234
+      internalID: 1559845771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_72
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 5296
+        width: 412
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7700d2fbff1d4b49b87e8f4c97a8673
+      internalID: -1921816715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_73
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 5292
+        width: 204
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb71edb56923240b89c0402b625203
+      internalID: -1228032683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_74
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 5292
+        width: 204
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f74d41669f52e4eae46f67d4beb4a8
+      internalID: -1975116304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_75
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 5292
+        width: 200
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d5958c4ed8204c91cf7c99497de6e
+      internalID: 450722842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_76
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 5292
+        width: 200
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5342752d690823641ae2c6f6cd50395e
+      internalID: -516271026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_77
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5196
+        width: 392
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963c84d0b841de4388ca2427a4cd97f
+      internalID: -2114252476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_78
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 5528
+        width: 408
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136213b5b7fab74db7e5a3f2f252daf
+      internalID: -723669168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_79
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 5432
+        width: 140
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe9096b2158af419f8e053f4320b45
+      internalID: 1520382101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_80
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 5164
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc80a9e19921944971dd2551ca675e
+      internalID: 901547901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_81
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 5160
+        width: 320
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d7e21b36405d40b15b9da47edb1fc
+      internalID: 674177619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5028
+        width: 1676
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a39798a460da6499f6f4e80147b477
+      internalID: -1817081431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_83
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 4952
+        width: 200
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d59ee37e789194197fd1d1a36c8b38
+      internalID: 319143591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_84
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 4952
+        width: 888
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275afa2d4830e24a8b5203530b4f5b0
+      internalID: -924484407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_85
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 5196
+        width: 348
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb10d08083e234eb17a8a267454c39
+      internalID: 71471028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_86
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 5120
+        width: 340
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710df43ad2224b44686100c713f731cf
+      internalID: 901095065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_87
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 4920
+        width: 172
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21dee10b264535499287e45e8105f3c
+      internalID: 652497289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_88
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 4916
+        width: 212
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e9282a46dac446ba4892baf1a7389
+      internalID: -1228398112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_89
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 4916
+        width: 172
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d7e4f9046b3f54cad13f06e44b9c56
+      internalID: 1978069289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_90
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 4860
+        width: 324
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51a481b337183f4cb0a978a7f43ef28
+      internalID: -28670444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_91
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 4860
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632705cb1f6f55a4e8b53cd12ed8f4b4
+      internalID: -1033595957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_92
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 4936
+        width: 260
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4caf072966e3f438094617a110bdea
+      internalID: 1607466328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4100
+        width: 2416
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165800b06e7838438bc12381c2639f6
+      internalID: 65693647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_94
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 4292
+        width: 208
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e83b8556bddc0469294151abfae772
+      internalID: -405653864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_95
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 4572
+        width: 1012
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b113d959d2e642b2fbf9573873c78
+      internalID: -902616652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_96
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 4744
+        width: 1124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a12075e3fafe4f999c01ee7e9a07e
+      internalID: -450901992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_97
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4108
+        width: 28
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a70c9e2215ea44b1da7b7823c33f9
+      internalID: -365872193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_98
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 4108
+        width: 32
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2b4bc20b69f74f8299bcdd701358d
+      internalID: -1365596663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_99
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 4108
+        width: 32
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c814e3244f9414cab4f577935de5cf
+      internalID: 957757309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_100
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 4108
+        width: 36
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9393033bd324cf948ba34c95e73460e3
+      internalID: -1432537666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_101
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 4108
+        width: 24
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bdc6c1a102e214eb7f7debb4a302ec
+      internalID: -1683139194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_102
+      rect:
+        serializedVersion: 2
+        x: 5212
+        y: 4108
+        width: 28
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7a75b2c10445469e008d3250b7a16
+      internalID: 1354437910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_103
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 4716
+        width: 152
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3a29e5b0a2214f9e27ed9e0d0c7e6
+      internalID: -357854568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_104
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 4712
+        width: 72
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebb8ae95b37a0489e47ed88474298a
+      internalID: -1906860689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_105
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 4096
+        width: 2400
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627d1f2e8d40c142a4df15f5a43984d
+      internalID: -892826678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_106
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 4132
+        width: 300
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c720cc8ba7af8c4b8749bb427845910
+      internalID: -1407814896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_107
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 4144
+        width: 288
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd479cfce5c0744b1443d9fc817542
+      internalID: 1233714127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_108
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4108
+        width: 436
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f2086bef72fd4081296be4b9cd362
+      internalID: 1615863641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_109
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 4108
+        width: 436
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc871c4f9b3b24a4fb5e929c9b937da0
+      internalID: -570569868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_110
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 4412
+        width: 440
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7950f3c5ec8ad4aa9b044fb4f6abd9
+      internalID: -1263833853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_111
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 4108
+        width: 444
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9fabfaeb2d6b45a3810a7c58106d6
+      internalID: 1510926331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2940
+        width: 1820
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d472f14cbed3a3478e1b944a6010828
+      internalID: -1982048007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_113
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3292
+        width: 1764
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875a17bc1cb37148bcd1306a283e93b
+      internalID: -1557182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_114
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 3480
+        width: 2440
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9028f23efc47b44e86922a5b955c388
+      internalID: -1645917051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_115
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 3792
+        width: 1072
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b933fc8b92524c9e82090c1401c58
+      internalID: -2060900074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_116
+      rect:
+        serializedVersion: 2
+        x: 7172
+        y: 3964
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34417ed15d805498f0e5bb67a7538f
+      internalID: -266465539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_117
+      rect:
+        serializedVersion: 2
+        x: 7352
+        y: 3912
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c99fd829e3fc904c942d50c7a0f9fcb
+      internalID: -1276455943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_118
+      rect:
+        serializedVersion: 2
+        x: 7472
+        y: 3948
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f669b67f5e624d8cbb7c1fe1cf83f
+      internalID: -1716162846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_119
+      rect:
+        serializedVersion: 2
+        x: 7612
+        y: 3848
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd079b210658eda4585dcfdb3c14ced2
+      internalID: -904800067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_120
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 3948
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cf03d9e646ce4d82324d11675ff98
+      internalID: -1137565630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_121
+      rect:
+        serializedVersion: 2
+        x: 7924
+        y: 3932
+        width: 168
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cdb51e6b0cc4144af00ef2b2d5792b
+      internalID: -144851760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_122
+      rect:
+        serializedVersion: 2
+        x: 8108
+        y: 3948
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33384d28894b9024ea89e2854ff4ffd4
+      internalID: -429538307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_123
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3836
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b635b68200bf849956ddb36c0567fd
+      internalID: -1824055855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_124
+      rect:
+        serializedVersion: 2
+        x: 7448
+        y: 3832
+        width: 160
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b23ef582957314ba657cca945101ad
+      internalID: 628982538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_125
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 3808
+        width: 168
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0528b0a076d1aad46994c43f1ac1350b
+      internalID: -136085928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_126
+      rect:
+        serializedVersion: 2
+        x: 8008
+        y: 3820
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ab95bb67ef2c42ab7007ae4cf3011
+      internalID: -1967389764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_127
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 3496
+        width: 1068
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721830478919f7342844f47c1a86621e
+      internalID: -1972808992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_128
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3688
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba05776bd4ca74dac75b906711fe23
+      internalID: -851041211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_129
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 3620
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3540d9e1260ef41a85c3b56c048bf8
+      internalID: 63651447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_130
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 3692
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ac7bbb7fe4794e92961b8659991c6
+      internalID: 673718265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_131
+      rect:
+        serializedVersion: 2
+        x: 7368
+        y: 3616
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01875bce00999a44e9ed79e0f9f63501
+      internalID: -1149115095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_132
+      rect:
+        serializedVersion: 2
+        x: 7516
+        y: 3668
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f47b5ad0d0e6c40b080490546ac45c
+      internalID: 33613030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_133
+      rect:
+        serializedVersion: 2
+        x: 7732
+        y: 3660
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca1538546eb0f43b19135133cc8292
+      internalID: 1836538139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_134
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 3656
+        width: 148
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e863500685fcb45b7db9d4da4cc5c8
+      internalID: 22433594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_135
+      rect:
+        serializedVersion: 2
+        x: 8052
+        y: 3644
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e14913b5c04ddb4297d92a1efd5817d
+      internalID: -1600213209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_136
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 3516
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f600553008d3a41a80c1b85ec0b8dd
+      internalID: -1971311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_137
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 3528
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d3b86e4bd8ba43a8dfd6ebc3c8faf
+      internalID: -680966604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_138
+      rect:
+        serializedVersion: 2
+        x: 7444
+        y: 3524
+        width: 164
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381564f4dcb19743921a76221da1cd9
+      internalID: -1477001312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_139
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 3544
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a83db1cbf747468a155d843f7758b
+      internalID: -1173853958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_140
+      rect:
+        serializedVersion: 2
+        x: 7780
+        y: 3536
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988302999c20ea40a9b867839d40e7f
+      internalID: -1384205779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_141
+      rect:
+        serializedVersion: 2
+        x: 7940
+        y: 3544
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b8a21c22a9d8498c497e07960ada6
+      internalID: 1895825014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_142
+      rect:
+        serializedVersion: 2
+        x: 8060
+        y: 3520
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd799d081330d408118d26423a318f
+      internalID: -1679408963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_143
+      rect:
+        serializedVersion: 2
+        x: 8128
+        y: 3508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065aedb8faffa14287fc57770cad053
+      internalID: -1145203490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2932
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea30b5938f220d4f95d64a6765610a3
+      internalID: -645010976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_145
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2520
+        width: 264
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e54bb986ae9044b52cb258aae137a
+      internalID: 857966501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_146
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 2928
+        width: 468
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b858362cd0be9c40818d034ce71037f
+      internalID: 1246263338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_147
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2496
+        width: 92
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af48b38003fe42c4b9530a1503b2ab28
+      internalID: 93605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_148
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2144
+        width: 356
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7005872537e5644698747495536d001
+      internalID: 588435409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_149
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 4
+        width: 4876
+        height: 3128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aaae0d2d4ff604db451768243ee6a4
+      internalID: 1646571921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2732
+        width: 1560
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089ebdb96e52ff43b77534dd4a2bd44
+      internalID: 2041351628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_151
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2568
+        width: 684
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca0a2b052240a4badf3fad6b1e999c
+      internalID: 1685738436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1872
+        width: 124
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73d42d7c214544e840c59f5c69d734
+      internalID: -1027771776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_153
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2356
+        width: 1140
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61476d1a98fdc745aa712cc32580072
+      internalID: -791567174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_154
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2324
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb9249e5040a543b4dd52120e2bf6c
+      internalID: -260454546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_155
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2356
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559a28940c9e8b41a6b6b32bfa78622
+      internalID: 378319983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_156
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2304
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47148dfa349079479d9de7175b7dc09
+      internalID: -382233863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_157
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2280
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec3a0af66dd914394081378579c49b
+      internalID: -463350958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_158
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2280
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2aa92620c6c5a4a80e4ff68c21c8fc
+      internalID: 214808387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_159
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 956
+        width: 328
+        height: 1288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7915fb3fa0c42a5439d75eabb556df06
+      internalID: -917734147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_160
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 964
+        width: 324
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a63172ab434372449f3f5c7e09098c0
+      internalID: 1724038948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_161
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 880
+        width: 296
+        height: 1340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fd4a72ac860c40bc9ae8cdedaea5f
+      internalID: 1770940937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_162
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 880
+        width: 292
+        height: 1340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d21d47dd42ad4b89ddd0744caf656
+      internalID: 550687918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_163
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2140
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b10f21096d52408d4783108e374df
+      internalID: 1204339724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_164
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2196
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9325b65f3e9374a85c8fe2142b57d7
+      internalID: -1887528976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_165
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2168
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2ef18be11db349aa395034428a1b5
+      internalID: -357444388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_166
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2124
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b16e6121b2231d45945449ade3b94bd
+      internalID: -483601229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_167
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2116
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328419c7d9427e742a220aac1dcd11bd
+      internalID: 1445863969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_168
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2084
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1995a9d68aef564a846407c8596de95
+      internalID: -1563201520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_169
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2044
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4d4717b727bf241a484601ef4da2ac
+      internalID: -613991431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_170
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1988
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bb28d47bbfa344877cd2f6089d272
+      internalID: -900805057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_171
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1968
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c59f930818846744b9375c6be6fdc09
+      internalID: -1486171063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_172
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2012
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cf1f18a308c8340bda1b3354d2de8b
+      internalID: 1271832032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_173
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1964
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ecf6e99616d1c44aa002e26908c1d7
+      internalID: 220411165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_174
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1596
+        width: 396
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af4bb29c673f044a677115ed983a7d
+      internalID: 784379716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_175
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1708
+        width: 328
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500406a189885f428e34aeea8321755
+      internalID: 275650009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_176
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1816
+        width: 268
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787391bfa8281714784d9646fa8f22c0
+      internalID: -858780547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_177
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1144
+        width: 240
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec63a2c802db247ab6e688a12f8fb7
+      internalID: 1098956511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_178
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1136
+        width: 172
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80ed974f12c2147a3feca967160708
+      internalID: -1302504617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_179
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1684
+        width: 212
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9872f342b3d0048b6ed32da1443c75
+      internalID: -1712916425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_180
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1688
+        width: 224
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba29b38b44a3614abdc928f5496304f
+      internalID: 1698881859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1340
+        width: 404
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610d457417021941953aefa38ebea92
+      internalID: -1218594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_182
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1372
+        width: 768
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5113a21ec65e40a66d0198cf92161
+      internalID: -308562351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_183
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e898bdf64931242ad4d38fddfc5730
+      internalID: -86263250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_184
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1472
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a49b862179ca42900cd14c51c01b9
+      internalID: 245470396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_185
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1464
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee0388fdc32ee44b41ecf2006fd6dc
+      internalID: 245082206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_186
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1388
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87d2d5c2e11c446931d2843ed122ca
+      internalID: 1679886152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_187
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1372
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643468afe1bbbd42afe19e0d72f94a4
+      internalID: 978712941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_188
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 792
+        width: 180
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fecdcb9d27aca6468988df2f6454054
+      internalID: -1103160885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_189
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 792
+        width: 280
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf3eec856eb1247822ea24de10c185
+      internalID: -1033198272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_190
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 844
+        width: 768
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a84858a1f89654ab32d78d28e28b49
+      internalID: -1868640744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_191
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 1128
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2208e58e5a5b3a4b9ee0775e2fdc62b
+      internalID: -475322301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_192
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 700
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8146dd29105c3c449c90fcb8e51b457
+      internalID: 619470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_193
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 776
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87453d73b7c01d148b00699e91eeb059
+      internalID: 637437610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_194
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 608
+        width: 504
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222aeee7e646424aba8430f3edb816a
+      internalID: -1996921313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_195
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 524
+        width: 412
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b08edb908c8e14d874874a7e13eb51
+      internalID: -588631610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_196
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 692
+        width: 332
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bf30370774c444a90a4e96a160c4b
+      internalID: -864226406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_197
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 8
+        width: 592
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df70b4dc111f6084d86dc83dc84677e0
+      internalID: -1456138003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_198
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f2934dd9e0ff44b87e1a67c15eda7
+      internalID: -1623060631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_199
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fa1489cea34c478e1099be78a4d75
+      internalID: 258241852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_200
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 768
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487348e39fb37b3459bd3249b2804304
+      internalID: -1858287897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_201
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 768
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67506e9e7ef5c3f4687ada75a9ac1a69
+      internalID: -2114185603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_202
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 764
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5029c87582735894ba3450916f0597f7
+      internalID: 47512848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_203
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 708
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59061bb0a58851840b47d7aa8bd2e29d
+      internalID: 16424907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_204
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 760
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae46187db6ca2342a8f3befbfc858c0
+      internalID: -167077154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe8b3221426724bbacbd4feb4760d3
+      internalID: -1234913011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_206
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 632
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dded2fcc995844a7e223007e4b48f
+      internalID: 1924813650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_207
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 736
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8bdb3313a02804d963e97fc77dcf6a
+      internalID: -219555777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe12c54170e17c4da41a36db05d1642
+      internalID: -1279807212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_209
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 728
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c8b8190b5f69469dc409d475ad317
+      internalID: 301718485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_210
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 720
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2ea37482e5fe47a817c595e993f3f
+      internalID: -2142855136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_211
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d6d6c48aa82244baf2d47fe108bd31
+      internalID: -224952623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_212
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934134bb0a797c41aca3fb3f54bfcb2
+      internalID: -1172027984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_213
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 700
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456aaab76bb81c48a152ecbceaf0912
+      internalID: -245867230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_214
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd686ab0890e99446be8542082306a63
+      internalID: -1261335539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_215
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765fe68bb1e4c040933a68170d55f6d
+      internalID: -591387570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_216
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 656
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f3cc18f67bdc48b418061a49289cd
+      internalID: -182073265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_217
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 512
+        width: 364
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15361bd106f387a479f33880c4a1cf3c
+      internalID: 1292045626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_218
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 632
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32de86b3cc5bcc41b029855e4726088
+      internalID: -155550013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 464
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cba7d0683653d4cb6b77bde302a85e
+      internalID: 1903833505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_220
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 296
+        width: 208
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df41a1a700c394287cd28feaf8be9e
+      internalID: 1160083700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_221
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 404
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6602ae62cfb54542b037aed0212d30e
+      internalID: -163563996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_222
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 240
+        width: 340
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659950714bb48744faad12517ad897cb
+      internalID: -1767682610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_223
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 472
+        width: 216
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e650db02476c6746906fcd48a589b80
+      internalID: 1978540081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_224
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 360
+        width: 228
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05187b4e6e9df21479be111bfd5ba968
+      internalID: -1286790518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_225
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 468
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2938506921fd04dbc3259eabcd1e66
+      internalID: 1883100362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_226
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 304
+        width: 164
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93111b3105ecd9f4bb67792ed8b77446
+      internalID: 2084170383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_227
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 268
+        width: 188
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ec7b2c2f90ef488a09438a26fc7f4
+      internalID: 2060601850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_228
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 272
+        width: 148
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b973347edc837a4a95c9eb5eb557a25
+      internalID: -1677515855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_229
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 332
+        width: 228
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860bfe5c84b962043aabab0068a19594
+      internalID: 904384065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_230
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 336
+        width: 204
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e184f7eed14a642b555727f1cb264a
+      internalID: -1441859033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 464
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22decdf36a256c4b9213db87f94291f
+      internalID: -598012193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_232
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 24
+        width: 768
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94835fc6d6388e47be5696ab0000bdc
+      internalID: -1923412783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_233
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 260
+        width: 52
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450988264d4d3f4fae10be471c8cc91
+      internalID: -1696124233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_234
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 468
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4497e00429cb46bcfb70cef5797be
+      internalID: 1944003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_235
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 4
+        width: 368
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb20cda981de04e8125c868c7fa0a3
+      internalID: -1309545849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_236
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 4
+        width: 236
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bbd4410bb80f4294ea0e1fdd520e2
+      internalID: -2085701209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_1_Train_Color_16k_237
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 8
+        width: 292
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae618466180332f47b980279d1ed41e9
+      internalID: -315638675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      S2_1_Train_Color_16k_169: -613991431
+      S2_1_Train_Color_16k_109: -570569868
+      S2_1_Train_Color_16k_230: -1441859033
+      S2_1_Train_Color_16k_89: 1978069289
+      S2_1_Train_Color_16k_237: -315638675
+      S2_1_Train_Color_16k_77: -2114252476
+      S2_1_Train_Color_16k_24: 1213201514
+      S2_1_Train_Color_16k_75: 450722842
+      S2_1_Train_Color_16k_195: -588631610
+      S2_1_Train_Color_16k_196: -864226406
+      S2_1_Train_Color_16k_231: -598012193
+      S2_1_Train_Color_16k_79: 1520382101
+      S2_1_Train_Color_16k_23: 340924470
+      S2_1_Train_Color_16k_209: 301718485
+      S2_1_Train_Color_16k_170: -900805057
+      S2_1_Train_Color_16k_25: -642449698
+      S2_1_Train_Color_16k_54: -2110759483
+      S2_1_Train_Color_16k_108: 1615863641
+      S2_1_Train_Color_16k_57: 1447227861
+      S2_1_Train_Color_16k_95: -902616652
+      S2_1_Train_Color_16k_97: -365872193
+      S2_1_Train_Color_16k_112: -1982048007
+      S2_1_Train_Color_16k_166: -483601229
+      S2_1_Train_Color_16k_8: 560180844
+      S2_1_Train_Color_16k_115: -2060900074
+      S2_1_Train_Color_16k_139: -1173853958
+      S2_1_Train_Color_16k_55: 967401920
+      S2_1_Train_Color_16k_105: -892826678
+      S2_1_Train_Color_16k_120: -1137565630
+      S2_1_Train_Color_16k_126: -1967389764
+      S2_1_Train_Color_16k_158: 214808387
+      S2_1_Train_Color_16k_84: -924484407
+      S2_1_Train_Color_16k_35: -513338941
+      S2_1_Train_Color_16k_111: 1510926331
+      S2_1_Train_Color_16k_43: 62662472
+      S2_1_Train_Color_16k_156: -382233863
+      S2_1_Train_Color_16k_102: 1354437910
+      S2_1_Train_Color_16k_150: 2041351628
+      S2_1_Train_Color_16k_68: 1077737339
+      S2_1_Train_Color_16k_85: 71471028
+      S2_1_Train_Color_16k_17: -86896312
+      S2_1_Train_Color_16k_204: -167077154
+      S2_1_Train_Color_16k_212: -1172027984
+      S2_1_Train_Color_16k_146: 1246263338
+      S2_1_Train_Color_16k_205: -1234913011
+      S2_1_Train_Color_16k_3: 887858539
+      S2_1_Train_Color_16k_29: -518123806
+      S2_1_Train_Color_16k_199: 258241852
+      S2_1_Train_Color_16k_137: -680966604
+      S2_1_Train_Color_16k_76: -516271026
+      S2_1_Train_Color_16k_148: 588435409
+      S2_1_Train_Color_16k_193: 637437610
+      S2_1_Train_Color_16k_211: -224952623
+      S2_1_Train_Color_16k_50: -1656507325
+      S2_1_Train_Color_16k_155: 378319983
+      S2_1_Train_Color_16k_202: 47512848
+      S2_1_Train_Color_16k_235: -1309545849
+      S2_1_Train_Color_16k_21: -1376209751
+      S2_1_Train_Color_16k_140: -1384205779
+      S2_1_Train_Color_16k_61: -966444966
+      S2_1_Train_Color_16k_46: 1820318099
+      S2_1_Train_Color_16k_136: -1971311175
+      S2_1_Train_Color_16k_19: -1671684110
+      S2_1_Train_Color_16k_138: -1477001312
+      S2_1_Train_Color_16k_143: -1145203490
+      S2_1_Train_Color_16k_135: -1600213209
+      S2_1_Train_Color_16k_172: 1271832032
+      S2_1_Train_Color_16k_96: -450901992
+      S2_1_Train_Color_16k_47: -2029533482
+      S2_1_Train_Color_16k_56: 445774177
+      S2_1_Train_Color_16k_99: 957757309
+      S2_1_Train_Color_16k_124: 628982538
+      S2_1_Train_Color_16k_121: -144851760
+      S2_1_Train_Color_16k_171: -1486171063
+      S2_1_Train_Color_16k_175: 275650009
+      S2_1_Train_Color_16k_181: -1218594615
+      S2_1_Train_Color_16k_39: -300958384
+      S2_1_Train_Color_16k_42: -69542938
+      S2_1_Train_Color_16k_220: 1160083700
+      S2_1_Train_Color_16k_176: -858780547
+      S2_1_Train_Color_16k_7: -734134481
+      S2_1_Train_Color_16k_219: 1903833505
+      S2_1_Train_Color_16k_149: 1646571921
+      S2_1_Train_Color_16k_13: 1099928197
+      S2_1_Train_Color_16k_80: 901547901
+      S2_1_Train_Color_16k_10: 2079228563
+      S2_1_Train_Color_16k_154: -260454546
+      S2_1_Train_Color_16k_52: 1072980790
+      S2_1_Train_Color_16k_197: -1456138003
+      S2_1_Train_Color_16k_60: -1568437997
+      S2_1_Train_Color_16k_180: 1698881859
+      S2_1_Train_Color_16k_49: -92841046
+      S2_1_Train_Color_16k_58: 873729465
+      S2_1_Train_Color_16k_101: -1683139194
+      S2_1_Train_Color_16k_32: -1481699007
+      S2_1_Train_Color_16k_106: -1407814896
+      S2_1_Train_Color_16k_189: -1033198272
+      S2_1_Train_Color_16k_67: -1532566298
+      S2_1_Train_Color_16k_218: -155550013
+      S2_1_Train_Color_16k_107: 1233714127
+      S2_1_Train_Color_16k_233: -1696124233
+      S2_1_Train_Color_16k_104: -1906860689
+      S2_1_Train_Color_16k_1: -55036770
+      S2_1_Train_Color_16k_63: -1683367129
+      S2_1_Train_Color_16k_41: -1585332078
+      S2_1_Train_Color_16k_71: 1559845771
+      S2_1_Train_Color_16k_234: 1944003986
+      S2_1_Train_Color_16k_64: -998035454
+      S2_1_Train_Color_16k_116: -266465539
+      S2_1_Train_Color_16k_131: -1149115095
+      S2_1_Train_Color_16k_232: -1923412783
+      S2_1_Train_Color_16k_213: -245867230
+      S2_1_Train_Color_16k_206: 1924813650
+      S2_1_Train_Color_16k_70: 320708215
+      S2_1_Train_Color_16k_88: -1228398112
+      S2_1_Train_Color_16k_113: -1557182453
+      S2_1_Train_Color_16k_188: -1103160885
+      S2_1_Train_Color_16k_144: -645010976
+      S2_1_Train_Color_16k_9: -458606363
+      S2_1_Train_Color_16k_114: -1645917051
+      S2_1_Train_Color_16k_91: -1033595957
+      S2_1_Train_Color_16k_214: -1261335539
+      S2_1_Train_Color_16k_12: -257526950
+      S2_1_Train_Color_16k_173: 220411165
+      S2_1_Train_Color_16k_168: -1563201520
+      S2_1_Train_Color_16k_203: 16424907
+      S2_1_Train_Color_16k_127: -1972808992
+      S2_1_Train_Color_16k_2: 1928347585
+      S2_1_Train_Color_16k_210: -2142855136
+      S2_1_Train_Color_16k_163: 1204339724
+      S2_1_Train_Color_16k_117: -1276455943
+      S2_1_Train_Color_16k_152: -1027771776
+      S2_1_Train_Color_16k_215: -591387570
+      S2_1_Train_Color_16k_69: 292744182
+      S2_1_Train_Color_16k_103: -357854568
+      S2_1_Train_Color_16k_122: -429538307
+      S2_1_Train_Color_16k_178: -1302504617
+      S2_1_Train_Color_16k_228: -1677515855
+      S2_1_Train_Color_16k_33: -2055371628
+      S2_1_Train_Color_16k_28: 1372592403
+      S2_1_Train_Color_16k_225: 1883100362
+      S2_1_Train_Color_16k_26: -1425859755
+      S2_1_Train_Color_16k_51: 1234599235
+      S2_1_Train_Color_16k_38: 2039308061
+      S2_1_Train_Color_16k_128: -851041211
+      S2_1_Train_Color_16k_18: -1936597522
+      S2_1_Train_Color_16k_65: -825863885
+      S2_1_Train_Color_16k_164: -1887528976
+      S2_1_Train_Color_16k_194: -1996921313
+      S2_1_Train_Color_16k_45: -1162585552
+      S2_1_Train_Color_16k_94: -405653864
+      S2_1_Train_Color_16k_81: 674177619
+      S2_1_Train_Color_16k_184: 245470396
+      S2_1_Train_Color_16k_93: 65693647
+      S2_1_Train_Color_16k_98: -1365596663
+      S2_1_Train_Color_16k_36: -977856196
+      S2_1_Train_Color_16k_129: 63651447
+      S2_1_Train_Color_16k_142: -1679408963
+      S2_1_Train_Color_16k_201: -2114185603
+      S2_1_Train_Color_16k_22: 637114616
+      S2_1_Train_Color_16k_229: 904384065
+      S2_1_Train_Color_16k_119: -904800067
+      S2_1_Train_Color_16k_198: -1623060631
+      S2_1_Train_Color_16k_160: 1724038948
+      S2_1_Train_Color_16k_223: 1978540081
+      S2_1_Train_Color_16k_15: -1867820970
+      S2_1_Train_Color_16k_0: 11192531
+      S2_1_Train_Color_16k_59: 1558742308
+      S2_1_Train_Color_16k_132: 33613030
+      S2_1_Train_Color_16k_82: -1817081431
+      S2_1_Train_Color_16k_87: 652497289
+      S2_1_Train_Color_16k_100: -1432537666
+      S2_1_Train_Color_16k_20: -1525820103
+      S2_1_Train_Color_16k_153: -791567174
+      S2_1_Train_Color_16k_110: -1263833853
+      S2_1_Train_Color_16k_123: -1824055855
+      S2_1_Train_Color_16k_145: 857966501
+      S2_1_Train_Color_16k_200: -1858287897
+      S2_1_Train_Color_16k_162: 550687918
+      S2_1_Train_Color_16k_174: 784379716
+      S2_1_Train_Color_16k_141: 1895825014
+      S2_1_Train_Color_16k_72: -1921816715
+      S2_1_Train_Color_16k_86: 901095065
+      S2_1_Train_Color_16k_187: 978712941
+      S2_1_Train_Color_16k_92: 1607466328
+      S2_1_Train_Color_16k_167: 1445863969
+      S2_1_Train_Color_16k_73: -1228032683
+      S2_1_Train_Color_16k_6: -746907572
+      S2_1_Train_Color_16k_190: -1868640744
+      S2_1_Train_Color_16k_183: -86263250
+      S2_1_Train_Color_16k_207: -219555777
+      S2_1_Train_Color_16k_157: -463350958
+      S2_1_Train_Color_16k_208: -1279807212
+      S2_1_Train_Color_16k_90: -28670444
+      S2_1_Train_Color_16k_226: 2084170383
+      S2_1_Train_Color_16k_14: -1904478279
+      S2_1_Train_Color_16k_34: -34382453
+      S2_1_Train_Color_16k_151: 1685738436
+      S2_1_Train_Color_16k_44: 106406658
+      S2_1_Train_Color_16k_182: -308562351
+      S2_1_Train_Color_16k_30: 5088434
+      S2_1_Train_Color_16k_222: -1767682610
+      S2_1_Train_Color_16k_11: 2027224730
+      S2_1_Train_Color_16k_40: 620249716
+      S2_1_Train_Color_16k_27: -1978007220
+      S2_1_Train_Color_16k_224: -1286790518
+      S2_1_Train_Color_16k_133: 1836538139
+      S2_1_Train_Color_16k_179: -1712916425
+      S2_1_Train_Color_16k_83: 319143591
+      S2_1_Train_Color_16k_53: -372875041
+      S2_1_Train_Color_16k_48: -58114878
+      S2_1_Train_Color_16k_125: -136085928
+      S2_1_Train_Color_16k_185: 245082206
+      S2_1_Train_Color_16k_78: -723669168
+      S2_1_Train_Color_16k_159: -917734147
+      S2_1_Train_Color_16k_66: -746666225
+      S2_1_Train_Color_16k_161: 1770940937
+      S2_1_Train_Color_16k_192: 619470137
+      S2_1_Train_Color_16k_31: -1283188157
+      S2_1_Train_Color_16k_227: 2060601850
+      S2_1_Train_Color_16k_191: -475322301
+      S2_1_Train_Color_16k_186: 1679886152
+      S2_1_Train_Color_16k_4: -511620299
+      S2_1_Train_Color_16k_62: -951362997
+      S2_1_Train_Color_16k_177: 1098956511
+      S2_1_Train_Color_16k_118: -1716162846
+      S2_1_Train_Color_16k_221: -163563996
+      S2_1_Train_Color_16k_134: 22433594
+      S2_1_Train_Color_16k_74: -1975116304
+      S2_1_Train_Color_16k_147: 93605565
+      S2_1_Train_Color_16k_217: 1292045626
+      S2_1_Train_Color_16k_5: -117456310
+      S2_1_Train_Color_16k_16: -201108665
+      S2_1_Train_Color_16k_165: -357444388
+      S2_1_Train_Color_16k_216: -182073265
+      S2_1_Train_Color_16k_236: -2085701209
+      S2_1_Train_Color_16k_130: 673718265
+      S2_1_Train_Color_16k_37: -642797590
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

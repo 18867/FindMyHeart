@@ -1,0 +1,4678 @@
+fileFormatVersion: 2
+guid: 0aa4fab92d645b549a7f56b086d428dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_0
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 6416
+        width: 1452
+        height: 1776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a9f99461058d4b9d33ab97fcfbdbb
+      internalID: -262130183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_1
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 6416
+        width: 952
+        height: 1772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8519e6ead6aa5e449885c91c4c9690f6
+      internalID: 1476431356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_2
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 6368
+        width: 744
+        height: 1820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35c4db8f9d48a54ca50adb08e96f066
+      internalID: -552979054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_3
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 6456
+        width: 920
+        height: 1732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24886dc7b6f823e4cb27b513fa55ad50
+      internalID: 1807356770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_4
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 6404
+        width: 780
+        height: 1788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddce849d85ceb94b8c6fbe8bfb08847
+      internalID: -822395392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_5
+      rect:
+        serializedVersion: 2
+        x: 7332
+        y: 6364
+        width: 856
+        height: 1824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b76de5d69a15498c8854e06b4bf2d
+      internalID: 246933951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_6
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 4508
+        width: 944
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53be1ed97e460a4486aa1370af1ead8
+      internalID: 1521141710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_7
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 4592
+        width: 876
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32809ca67fc5bea4ab0bb008946607d8
+      internalID: 40919691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_8
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 4492
+        width: 1024
+        height: 1848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76c84862b3f7a46b76d6257edaf747
+      internalID: -545415181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_9
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 4520
+        width: 1028
+        height: 1856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320321a93e1107240a0eacb3c3b94a50
+      internalID: -2122869672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_10
+      rect:
+        serializedVersion: 2
+        x: 6964
+        y: 4636
+        width: 1224
+        height: 1708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146ef0bb4bf95a4890b1b3a4bc253bf
+      internalID: 1957332446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_11
+      rect:
+        serializedVersion: 2
+        x: 6944
+        y: 2816
+        width: 1240
+        height: 1788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671fe85357813d243b57bb6118cc21ae
+      internalID: -354600819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_12
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0a533cd6d40941946757fd568d5e5
+      internalID: -652259200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_13
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d40d0a10323d49b61ec84944804f2
+      internalID: -1393359747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_14
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893a60905124234dad5e0811bed7469
+      internalID: -556070877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_15
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789dce8f51d216498c09b861e173b63
+      internalID: 1158363167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_16
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 2668
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5444c5315b07164b97b5faed763521a
+      internalID: -1064150873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_17
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2664
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc614dae7e699c04a8954e3ff5152aea
+      internalID: 453968837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aaf26ad02014c4faf43c32a605cde8
+      internalID: -687643389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_19
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2656
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4c4d00ab940840aabad2c2c2d3b92
+      internalID: -1673595430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_20
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94ea4a07bd706244b8b6f4bb98e9335
+      internalID: -1365245174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_21
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2648
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ef7e7e49a92b4a84839af553ad63a
+      internalID: -2034228029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_22
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2f1b1cbb988b4db132f4500263c14
+      internalID: -1199850277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_23
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2640
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e250a83f69e2e4887f05fc1f18b7d5
+      internalID: 531759322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_24
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb990f3eceeb8547873338e8015c9e9
+      internalID: 1231931592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_25
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 2632
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdb7f2c7d469c44aa725812d4fbc66
+      internalID: 1604445301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_26
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 2628
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538f675a47cc82448f65bd53f35505a
+      internalID: -233766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_27
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2624
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb851a8cc7cd2448130868cc8f167f
+      internalID: 972425850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_28
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacaf142ad75d0a44ad7d6b60b2b1c50
+      internalID: -1994868676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_29
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57879c5227a3ca4a8843d03fdc71cc1
+      internalID: -42487059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_30
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7c03cf32571b4cbf29f88d23dfb24
+      internalID: -1202165661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_31
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2608
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f0c85d854d6847a240e34c26b3118
+      internalID: 178728189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_32
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2604
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca31ceeb68d48a42b3ef8473d0ca8f2
+      internalID: 770549506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_33
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2600
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe14868455a72458c63716dd857d36
+      internalID: 1954883742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_34
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2596
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fcf42c04493f47a92650c64d9599b
+      internalID: 1552852138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_35
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2592
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7255463d0faaa9419ba09be7cc2bb30
+      internalID: 1848312342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_36
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2588
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232fbaca4aef47f4084d219715ec9a78
+      internalID: -383533681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_37
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2584
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494c1458381ec449a011c00a85720eb
+      internalID: -741856810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_38
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2580
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99a432be9c75e43afb7f5bd5c7b7ab
+      internalID: -1872164278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_39
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2576
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aaed35766ce264983675e8bbf722d8
+      internalID: 1664589085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_40
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2572
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e53fcf083b1034fbad9af7b2ac3f73
+      internalID: 352975595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_41
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2568
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d2c67f11884e40b532c5fd82140a4
+      internalID: 1209071452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_42
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2564
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30f1123bfa1c54f8dec1cffa6e8ffe
+      internalID: 1146761972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_43
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b4b94b2bc31a4dbfba1bfd8fb7f68
+      internalID: -1741004179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_44
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2556
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d012a5fdb05b345b495599c0b7bc2a
+      internalID: -194288827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_45
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 2552
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894483007f0c464f82e0e8e5d1703e3
+      internalID: -602118375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_46
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2548
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ac82a2a347d1498cef3e033b074dd
+      internalID: -1777333895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_47
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2544
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c3e3d4780f0847ab1b3f076425d59
+      internalID: -330819335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_48
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 2540
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaea8137bb0ce4408bc3735b2549854
+      internalID: -1886782803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_49
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 2536
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f77e171b0d17c4b96e88c5aad9ee32
+      internalID: -1803358973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_50
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2591c8cc16ab42649a02d3a40465087b
+      internalID: 1935065326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_51
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2528
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45059c8f372e474db86df9184158055
+      internalID: -1377262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_52
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64a83474299f648825c98e01d96ebd
+      internalID: 421547779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_53
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2520
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf1a7830b1c9244a92e7b61b8bb5e5d
+      internalID: -689731023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_54
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2516
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4cef3e0edc8e84fbd6b2a98a95ad5e
+      internalID: 197496606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_55
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2420
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366e11086628424fb52cc8b5648cb61
+      internalID: 776347333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_56
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2412
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3935ddc04b6488479eed6adf6624135
+      internalID: -1503895505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_57
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2408
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc045dd1f482aa34d868e45312c15fcc
+      internalID: -621567341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_58
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2404
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47ddf5fffc04a43a9af1a5cd8a9d5c
+      internalID: 1543744197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_59
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2400
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b2da54e12c454b86093d85c5d5a35
+      internalID: 517086810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_60
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2392
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23684ca46f9c11e4e93e11f7707ab5d9
+      internalID: -973595219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_61
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2388
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf85893796bf24aa664d4fcdaf12e8
+      internalID: 1119523107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_62
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2384
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2185f0afe02d488bbaa8090a3a28d
+      internalID: 976881531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_63
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2380
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d304d1efb5482546858d473c108c55e
+      internalID: 713785459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_64
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2376
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c55e3396e767484ab17acfa396eaa08
+      internalID: -801765715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_65
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c943948d3bc3b419dd06c297e68806
+      internalID: -537457114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_66
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f8e2be848c604e935152cba17bcfb
+      internalID: 116204895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_67
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 2360
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483b1e3f83b49042b06e888c1bcba70
+      internalID: 1029278817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 204
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075fe0cc1415ffb43a7b415e5cef0ee8
+      internalID: 571789123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 268
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f955e2d8e9eb449d5bc21159c8d71
+      internalID: 297759060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 584
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6936781469884fad3fa606b181851
+      internalID: -1118199225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_71
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 428
+        width: 4
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0c9b0d04dd824ba5732540e119e43
+      internalID: -1841331625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 516
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e74331f3b94448ac382cf420822a4
+      internalID: 775576617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_73
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 516
+        width: 192
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5311ce38739bf044b992e5818716fd5
+      internalID: -268978082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 532
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3ea07e2887784d9c9a292e65914fe
+      internalID: -2047118530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_75
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 400
+        width: 100
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231e5275a13eaa4989b7750ab367274
+      internalID: -1252374404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_76
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 400
+        width: 100
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc66aa9072db01489680bf41c0ae025
+      internalID: 1483028294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 444
+        width: 208
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536f81cdf144c4a40879cc47f7866486
+      internalID: 1591451553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 464
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f6747b8cfec8439613bad0fcbdb31
+      internalID: 1866282000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_79
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 444
+        width: 224
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c6b704369dea478dd368534ed076c
+      internalID: 1663876668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_80
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 256
+        width: 872
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5348e478a22d4fb41a748e76518c1a65
+      internalID: -1553552013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 368
+        width: 380
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be6a56aff50f34a87388cadcaedca0
+      internalID: 1706984109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 388
+        width: 264
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453da3689afd2e43a99bacd389e90b3
+      internalID: -1044310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_83
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 368
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3cf8f6258b104ab63f98994b3cc1f
+      internalID: -1220287388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_84
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 256
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65b7113d8dc67448b41df6d099b2da
+      internalID: -1477113071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_85
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 256
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3133fcef0c6a041a234d43aa06a0e6
+      internalID: -1442020014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_86
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 252
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe424c3ebfc05446a5d827335ee56c3
+      internalID: 49792111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_87
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 252
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288497dca05c3fa46872f84147076751
+      internalID: -937922646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_88
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 196
+        width: 352
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ee32a3d011d754eba6e886fa071d13
+      internalID: 1893918536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_89
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54c4f495bb43304781dd0e06561136b
+      internalID: 183691063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 312
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880fedc7fd0b3047aca2591d12ea19c
+      internalID: -1959718354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6aca37c7c4dac4880e1541217e3c1a
+      internalID: -177520133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 316
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a5bb257451ae4ba34634f62b993da
+      internalID: 1558383506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_93
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 344
+        width: 148
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3cc2dc3736a0408ddaa8f0061a8b5
+      internalID: -1164130889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_94
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 252
+        width: 112
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e874a68923c5141b42c68f7780abd9
+      internalID: 1497355056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_95
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 332
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10f06350ca2624591cf86c87726832
+      internalID: -855710875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_96
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 348
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26272ceda25fc86449b5b646caa270a7
+      internalID: -91073128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_97
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7991b39fcde1349b798290ec8e5e8d
+      internalID: -697334770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_98
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 316
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf97fa1340f0d4da59a6a9c6e5e997
+      internalID: -1323810829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_99
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675f27cf248f6042adb0c1851df0e48
+      internalID: -1831216329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_100
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25e592ded7d3244b81a41d43e6e3d5
+      internalID: 1214748989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_101
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efdd54c672726049a0f4ee7a9ca9065
+      internalID: -574837474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_102
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f206439a8a5c6a4490317fbb11d036f
+      internalID: -270324044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_103
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 316
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10bfb4d804630f4e9073496ba573e68
+      internalID: -1166729437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_104
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a606452bcf3984459944224f64a89c9
+      internalID: 1822069582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_105
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a05eb2a4228db4e8cfa85481dccee7
+      internalID: -1349608143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_106
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc53ee0c6876e046acadba2e64522c2
+      internalID: -1116966275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_107
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 264
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cf1b4460d6c5c42a3d0f96210a7a49
+      internalID: -1244168931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_108
+      rect:
+        serializedVersion: 2
+        x: 5212
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d298363c87f44ab3a0c7373e1ad60
+      internalID: 1720979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_109
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 316
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b57a09a3e22284d84a301714004b33
+      internalID: 1660936917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_110
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2236ece18955d40b5eac3995aba3a2
+      internalID: 1062382265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_111
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 264
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa94a10b6cb0b634ab40930924afe542
+      internalID: 693477725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_112
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ac3c6307130e4caba2dce75b0539d
+      internalID: 1310856809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_113
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed5c7a96e7407418effd65b8af4673
+      internalID: -1054022599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_114
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 316
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156de42472adc934081119f7e2e28c2e
+      internalID: -693326492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_115
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 316
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204200c8521fc49488bd1118c26930b9
+      internalID: -1202239149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_116
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 316
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f6395db83b18243b4697e1fc4b9b78
+      internalID: -1699036933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_117
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 340
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d35bc4b96c9b74aacacd7956d0e0da
+      internalID: 421542867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_118
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 340
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210234e7bec4844b8755ea5e4b29b86
+      internalID: 1582775219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_119
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 308
+        width: 120
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891a18e7fe3db6c4caf5ca749b4c762b
+      internalID: -689589086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_120
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ebd97ab9931d4a849a50798c329b0
+      internalID: 1209716812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_121
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb43a6857a3dda40a87b839c229c8d8
+      internalID: -1661045564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_122
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 256
+        width: 156
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fff6c0287134048b65df87ba078a27
+      internalID: 2062676396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_123
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 260
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b088eeeb516cb74f8c233a4c6174311
+      internalID: 1771701183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 248
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7abad7a6354e74b8b86d985eeb28a9
+      internalID: -929562306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_125
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa2ad4375ba704eacc525d375669f6
+      internalID: -1527322572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_126
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f385753398a104ab790208caad487d
+      internalID: 800887824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_127
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 264
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42efe3133802c2d4bbdf2f0df250fab3
+      internalID: 1055716159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_128
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 264
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181bde5ebaf1854e9a5134777ec9c09
+      internalID: 590768889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_129
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 264
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d92ef84843281408813c289e553cb1
+      internalID: -1349938066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_130
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbd47e383c3624aa9a7d04dfdc9ad1
+      internalID: 1274687726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_131
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 264
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ace0253ccef9341a9a7ddb2bee7df2
+      internalID: -629071859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_132
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 264
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79647f02bdc441a4fad3b7ccc7b6cbd9
+      internalID: -1588118289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_133
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 264
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9cb18a94251da4aba56f4fc16336f3
+      internalID: 142547793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_134
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 264
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11389422e62be2f4b8115b2190f07896
+      internalID: 521090021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_135
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 264
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5040461c1dddb4e8d773a68e11227b
+      internalID: 319488628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_136
+      rect:
+        serializedVersion: 2
+        x: 5212
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54d307fd91aa2478c982d5acb30bb7
+      internalID: 2105006853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_137
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 264
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ff0c9daedc2348ae3c59db5ddec21
+      internalID: -1529811984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_138
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b6e65c4c2f0d438b2d61537d20162
+      internalID: -362324153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_139
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23de2a1ee9e9fd4e9aa13d778b04089
+      internalID: 1947012400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_140
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f65736e1d15a14f8b418f3c95e24b2
+      internalID: -180215973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_141
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 264
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1ea940ab66a14e8a18e1ed1a6349d
+      internalID: -809088733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_142
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 264
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0956d37c51d39429ffd5c252a75133
+      internalID: -1906564002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_143
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 264
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab904ce03eb8f741a7b8ab1cf692e1f
+      internalID: -1439704516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_144
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 276
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afde9211667844499ec8b1e39c21b6
+      internalID: -1112566832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_145
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce7092e0a689b44a575a019360a8e3
+      internalID: 202990994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_146
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 264
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780b2949e53a3840ae4244081d79e47
+      internalID: -1566435413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_147
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4797534124e5284bba2fb9686288367
+      internalID: 1066843666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_148
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0487d498549b4d9c6e1a5714a90d5
+      internalID: -1183764763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_149
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b24f70c7a2434baa174d41d0a2385
+      internalID: -865372465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_150
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e08ace33eabc49bfad6c02ad1184f
+      internalID: 1720922261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_151
+      rect:
+        serializedVersion: 2
+        x: 5064
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b679e43d94aa45be30c74e27a1f50
+      internalID: 1520987415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_152
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098cc130a30f04479a5d5532fa29375
+      internalID: -34161605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_153
+      rect:
+        serializedVersion: 2
+        x: 5316
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e77968b661745409bbeabfd66c3aa3
+      internalID: 800281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_154
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 264
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d3a3dfd83351488681ea94f93e244
+      internalID: 1354588256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_155
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a722e49f0ac7e4a98b3d0c3a367a5a
+      internalID: -1472275953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_156
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 264
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17bec86a3dd00443a53889a1809fb8e
+      internalID: 1614054872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_157
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955fb94d1dfe51648b114ac9364158f8
+      internalID: -1620415185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_158
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8bed2c7bdbf8a4b96a1dbf2bda3dca
+      internalID: -1589915798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_159
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd28c3c543376c45994709085f8ec8f
+      internalID: 1166261184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_160
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534e0f388e881e4a8328508d5613386
+      internalID: -301584681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_161
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860ccff1d37ccc458659694bfb47d74
+      internalID: -1885965467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_162
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768913924c05b847aaec47f6d143836
+      internalID: 1891004025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_163
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99569dcdc6d3f04fb6070fcd5eda515
+      internalID: 2079294445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_164
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef36df9f53f2d47a941772f281374c
+      internalID: 2075353590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_165
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840eda73b9f3ece4a82d407af306c7cd
+      internalID: -2033492922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_166
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e04a357c560d4408bffcd018b40ef9
+      internalID: 653943707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_167
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99092a8cc8ef8943b1309f9547160ff
+      internalID: -1523615496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_168
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baea0efe41e0484d97689811f80dda1
+      internalID: 181179111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_169
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd18c6f5c289eb408325784738ff50b
+      internalID: -1330629462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_170
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb0a783d7174746a0f81b41d308fde
+      internalID: 1048326425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_171
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df14851249dd7a4f96e05f8295aac2b
+      internalID: -621495602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_172
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf6b5596ec09e40acca8c0a7096f18
+      internalID: -1023288270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_173
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 256
+        width: 68
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc9baf375f443448a195d0aee033ed4
+      internalID: 1900783393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_174
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc876ae202d4c0d4198235ee7c038604
+      internalID: 1566204435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_175
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23fd41260bcdcf44a441047ff659d36
+      internalID: -552664130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_176
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d235d8983d5b44ea5e2f6465209a5a
+      internalID: 2029336816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_177
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d1c462eda6884aacdb0197ad371b1
+      internalID: -605233969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_178
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b58defd5626245ad9972d17413d69
+      internalID: -843382364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_179
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea13d701ff049e445b4320ea508145db
+      internalID: -1939703131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_180
+      rect:
+        serializedVersion: 2
+        x: 6220
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5e9b9e53b5054aa0a44d7d7ba80a5
+      internalID: 254382690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_181
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9b9ec855e8c5439b26219b69b6704
+      internalID: 1872636710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_182
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ecdb2d166e434b903c335dd36011f
+      internalID: -2120220450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_183
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 148
+        width: 2460
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2647adeaa209bb41ae6eb55e8abdac2
+      internalID: -718881270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_184
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb27eb705a2917458e088c34c50d3e5
+      internalID: -870923176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_185
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 2572
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196dc9eab79d1d44adc2f596f04bf91
+      internalID: 2096102596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_186
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c7159e492cfd4183b0b7f5d561589
+      internalID: -1955981552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_187
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186a4cd9bc64c84eb80b7a7dfa33836
+      internalID: -1536304644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_188
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 200
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a08bb5684581a46ab42239a84078e6
+      internalID: -319011222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_189
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f8afb0ba15e0438d037bf78961bcf
+      internalID: 1960598178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_190
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f1518a2a9be924b97b4e9fab3f3a42
+      internalID: 323752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_191
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c946e74acfd37d449c92739f11524b9
+      internalID: -1186866710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_192
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca79d1189517048a91c7df2b7bf49e
+      internalID: 1434185046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_193
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca09d167666d1f4dbcb8be12fbfea9c
+      internalID: 13265789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_194
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c16de674019e4f41a3b620e1c43cf6e
+      internalID: -16217606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_195
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592e1b1bfa68a9428e1f43a3f66481b
+      internalID: 1246735341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_196
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e5eb8149eb3845986099068c07c67
+      internalID: 375930903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_197
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7773dbb3081234ebdd2bb37187496a
+      internalID: -418517450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_198
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 3792
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9adebfe4f2c54e98e0cc138d39e40
+      internalID: -295147072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_199
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 152
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd204f070731b1418b379de96b46116
+      internalID: -38728788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_200
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788a946d38aea54eb52c9c0c5d3b379
+      internalID: -1292466141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_201
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 120
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789dc2724596dfb45bab76efb4b5d0d1
+      internalID: 60847669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_202
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 3792
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893371bc16707124da49cb3e102379ab
+      internalID: -2111550199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_203
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 64
+        width: 2464
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeec154f3bad3a4cbe0ed9d6300020b
+      internalID: -1584743978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_204
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 80
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7bdffcc236ff4781b30aa2f807fdc
+      internalID: 130215834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S2_4_Train_White_16k_205
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 0
+        width: 2572
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dfdb87d88e65243a7522a352f7c160
+      internalID: 1332204908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      S2_4_Train_White_16k_59: 517086810
+      S2_4_Train_White_16k_201: 60847669
+      S2_4_Train_White_16k_55: 776347333
+      S2_4_Train_White_16k_116: -1699036933
+      S2_4_Train_White_16k_147: 1066843666
+      S2_4_Train_White_16k_52: 421547779
+      S2_4_Train_White_16k_190: 323752565
+      S2_4_Train_White_16k_6: 1521141710
+      S2_4_Train_White_16k_130: 1274687726
+      S2_4_Train_White_16k_120: 1209716812
+      S2_4_Train_White_16k_162: 1891004025
+      S2_4_Train_White_16k_99: -1831216329
+      S2_4_Train_White_16k_146: -1566435413
+      S2_4_Train_White_16k_94: 1497355056
+      S2_4_Train_White_16k_31: 178728189
+      S2_4_Train_White_16k_28: -1994868676
+      S2_4_Train_White_16k_62: 976881531
+      S2_4_Train_White_16k_117: 421542867
+      S2_4_Train_White_16k_9: -2122869672
+      S2_4_Train_White_16k_180: 254382690
+      S2_4_Train_White_16k_17: 453968837
+      S2_4_Train_White_16k_172: -1023288270
+      S2_4_Train_White_16k_44: -194288827
+      S2_4_Train_White_16k_164: 2075353590
+      S2_4_Train_White_16k_136: 2105006853
+      S2_4_Train_White_16k_153: 800281098
+      S2_4_Train_White_16k_169: -1330629462
+      S2_4_Train_White_16k_73: -268978082
+      S2_4_Train_White_16k_41: 1209071452
+      S2_4_Train_White_16k_21: -2034228029
+      S2_4_Train_White_16k_46: -1777333895
+      S2_4_Train_White_16k_12: -652259200
+      S2_4_Train_White_16k_81: 1706984109
+      S2_4_Train_White_16k_200: -1292466141
+      S2_4_Train_White_16k_33: 1954883742
+      S2_4_Train_White_16k_22: -1199850277
+      S2_4_Train_White_16k_168: 181179111
+      S2_4_Train_White_16k_103: -1166729437
+      S2_4_Train_White_16k_186: -1955981552
+      S2_4_Train_White_16k_159: 1166261184
+      S2_4_Train_White_16k_42: 1146761972
+      S2_4_Train_White_16k_160: -301584681
+      S2_4_Train_White_16k_40: 352975595
+      S2_4_Train_White_16k_90: -1959718354
+      S2_4_Train_White_16k_4: -822395392
+      S2_4_Train_White_16k_203: -1584743978
+      S2_4_Train_White_16k_163: 2079294445
+      S2_4_Train_White_16k_114: -693326492
+      S2_4_Train_White_16k_98: -1323810829
+      S2_4_Train_White_16k_24: 1231931592
+      S2_4_Train_White_16k_14: -556070877
+      S2_4_Train_White_16k_5: 246933951
+      S2_4_Train_White_16k_72: 775576617
+      S2_4_Train_White_16k_32: 770549506
+      S2_4_Train_White_16k_71: -1841331625
+      S2_4_Train_White_16k_54: 197496606
+      S2_4_Train_White_16k_173: 1900783393
+      S2_4_Train_White_16k_27: 972425850
+      S2_4_Train_White_16k_84: -1477113071
+      S2_4_Train_White_16k_29: -42487059
+      S2_4_Train_White_16k_69: 297759060
+      S2_4_Train_White_16k_199: -38728788
+      S2_4_Train_White_16k_112: 1310856809
+      S2_4_Train_White_16k_194: -16217606
+      S2_4_Train_White_16k_70: -1118199225
+      S2_4_Train_White_16k_95: -855710875
+      S2_4_Train_White_16k_26: -233766419
+      S2_4_Train_White_16k_174: 1566204435
+      S2_4_Train_White_16k_56: -1503895505
+      S2_4_Train_White_16k_158: -1589915798
+      S2_4_Train_White_16k_141: -809088733
+      S2_4_Train_White_16k_20: -1365245174
+      S2_4_Train_White_16k_86: 49792111
+      S2_4_Train_White_16k_82: -1044310227
+      S2_4_Train_White_16k_87: -937922646
+      S2_4_Train_White_16k_113: -1054022599
+      S2_4_Train_White_16k_108: 1720979603
+      S2_4_Train_White_16k_178: -843382364
+      S2_4_Train_White_16k_37: -741856810
+      S2_4_Train_White_16k_102: -270324044
+      S2_4_Train_White_16k_91: -177520133
+      S2_4_Train_White_16k_93: -1164130889
+      S2_4_Train_White_16k_161: -1885965467
+      S2_4_Train_White_16k_142: -1906564002
+      S2_4_Train_White_16k_123: 1771701183
+      S2_4_Train_White_16k_149: -865372465
+      S2_4_Train_White_16k_167: -1523615496
+      S2_4_Train_White_16k_105: -1349608143
+      S2_4_Train_White_16k_57: -621567341
+      S2_4_Train_White_16k_75: -1252374404
+      S2_4_Train_White_16k_83: -1220287388
+      S2_4_Train_White_16k_97: -697334770
+      S2_4_Train_White_16k_50: 1935065326
+      S2_4_Train_White_16k_13: -1393359747
+      S2_4_Train_White_16k_124: -929562306
+      S2_4_Train_White_16k_144: -1112566832
+      S2_4_Train_White_16k_176: 2029336816
+      S2_4_Train_White_16k_177: -605233969
+      S2_4_Train_White_16k_68: 571789123
+      S2_4_Train_White_16k_79: 1663876668
+      S2_4_Train_White_16k_179: -1939703131
+      S2_4_Train_White_16k_156: 1614054872
+      S2_4_Train_White_16k_157: -1620415185
+      S2_4_Train_White_16k_15: 1158363167
+      S2_4_Train_White_16k_65: -537457114
+      S2_4_Train_White_16k_23: 531759322
+      S2_4_Train_White_16k_39: 1664589085
+      S2_4_Train_White_16k_47: -330819335
+      S2_4_Train_White_16k_126: 800887824
+      S2_4_Train_White_16k_18: -687643389
+      S2_4_Train_White_16k_181: 1872636710
+      S2_4_Train_White_16k_58: 1543744197
+      S2_4_Train_White_16k_125: -1527322572
+      S2_4_Train_White_16k_118: 1582775219
+      S2_4_Train_White_16k_30: -1202165661
+      S2_4_Train_White_16k_7: 40919691
+      S2_4_Train_White_16k_106: -1116966275
+      S2_4_Train_White_16k_143: -1439704516
+      S2_4_Train_White_16k_204: 130215834
+      S2_4_Train_White_16k_101: -574837474
+      S2_4_Train_White_16k_132: -1588118289
+      S2_4_Train_White_16k_3: 1807356770
+      S2_4_Train_White_16k_34: 1552852138
+      S2_4_Train_White_16k_60: -973595219
+      S2_4_Train_White_16k_122: 2062676396
+      S2_4_Train_White_16k_171: -621495602
+      S2_4_Train_White_16k_104: 1822069582
+      S2_4_Train_White_16k_110: 1062382265
+      S2_4_Train_White_16k_53: -689731023
+      S2_4_Train_White_16k_107: -1244168931
+      S2_4_Train_White_16k_196: 375930903
+      S2_4_Train_White_16k_2: -552979054
+      S2_4_Train_White_16k_192: 1434185046
+      S2_4_Train_White_16k_183: -718881270
+      S2_4_Train_White_16k_61: 1119523107
+      S2_4_Train_White_16k_184: -870923176
+      S2_4_Train_White_16k_119: -689589086
+      S2_4_Train_White_16k_129: -1349938066
+      S2_4_Train_White_16k_138: -362324153
+      S2_4_Train_White_16k_8: -545415181
+      S2_4_Train_White_16k_205: 1332204908
+      S2_4_Train_White_16k_191: -1186866710
+      S2_4_Train_White_16k_115: -1202239149
+      S2_4_Train_White_16k_109: 1660936917
+      S2_4_Train_White_16k_0: -262130183
+      S2_4_Train_White_16k_36: -383533681
+      S2_4_Train_White_16k_170: 1048326425
+      S2_4_Train_White_16k_77: 1591451553
+      S2_4_Train_White_16k_166: 653943707
+      S2_4_Train_White_16k_131: -629071859
+      S2_4_Train_White_16k_145: 202990994
+      S2_4_Train_White_16k_11: -354600819
+      S2_4_Train_White_16k_128: 590768889
+      S2_4_Train_White_16k_198: -295147072
+      S2_4_Train_White_16k_92: 1558383506
+      S2_4_Train_White_16k_45: -602118375
+      S2_4_Train_White_16k_35: 1848312342
+      S2_4_Train_White_16k_25: 1604445301
+      S2_4_Train_White_16k_88: 1893918536
+      S2_4_Train_White_16k_155: -1472275953
+      S2_4_Train_White_16k_38: -1872164278
+      S2_4_Train_White_16k_202: -2111550199
+      S2_4_Train_White_16k_66: 116204895
+      S2_4_Train_White_16k_154: 1354588256
+      S2_4_Train_White_16k_85: -1442020014
+      S2_4_Train_White_16k_135: 319488628
+      S2_4_Train_White_16k_64: -801765715
+      S2_4_Train_White_16k_185: 2096102596
+      S2_4_Train_White_16k_78: 1866282000
+      S2_4_Train_White_16k_195: 1246735341
+      S2_4_Train_White_16k_139: 1947012400
+      S2_4_Train_White_16k_127: 1055716159
+      S2_4_Train_White_16k_48: -1886782803
+      S2_4_Train_White_16k_10: 1957332446
+      S2_4_Train_White_16k_43: -1741004179
+      S2_4_Train_White_16k_134: 521090021
+      S2_4_Train_White_16k_121: -1661045564
+      S2_4_Train_White_16k_19: -1673595430
+      S2_4_Train_White_16k_187: -1536304644
+      S2_4_Train_White_16k_63: 713785459
+      S2_4_Train_White_16k_189: 1960598178
+      S2_4_Train_White_16k_1: 1476431356
+      S2_4_Train_White_16k_16: -1064150873
+      S2_4_Train_White_16k_193: 13265789
+      S2_4_Train_White_16k_150: 1720922261
+      S2_4_Train_White_16k_165: -2033492922
+      S2_4_Train_White_16k_96: -91073128
+      S2_4_Train_White_16k_51: -1377262372
+      S2_4_Train_White_16k_67: 1029278817
+      S2_4_Train_White_16k_175: -552664130
+      S2_4_Train_White_16k_188: -319011222
+      S2_4_Train_White_16k_111: 693477725
+      S2_4_Train_White_16k_76: 1483028294
+      S2_4_Train_White_16k_100: 1214748989
+      S2_4_Train_White_16k_151: 1520987415
+      S2_4_Train_White_16k_74: -2047118530
+      S2_4_Train_White_16k_133: 142547793
+      S2_4_Train_White_16k_89: 183691063
+      S2_4_Train_White_16k_137: -1529811984
+      S2_4_Train_White_16k_49: -1803358973
+      S2_4_Train_White_16k_140: -180215973
+      S2_4_Train_White_16k_182: -2120220450
+      S2_4_Train_White_16k_152: -34161605
+      S2_4_Train_White_16k_197: -418517450
+      S2_4_Train_White_16k_148: -1183764763
+      S2_4_Train_White_16k_80: -1553552013
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

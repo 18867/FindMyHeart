@@ -1,0 +1,4524 @@
+fileFormatVersion: 2
+guid: 38b92181edde408419c1af842c9f55eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6412
+        width: 5416
+        height: 1780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa50a09f87ef14987b43b8ee1d34b5
+      internalID: 1540918932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_1
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 7816
+        width: 248
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd664c12102ec45b4dceab6545930d
+      internalID: 193063756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_2
+      rect:
+        serializedVersion: 2
+        x: 5444
+        y: 7492
+        width: 636
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c0c133de7c814182cee4cec9547c8
+      internalID: 127586105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_3
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 7612
+        width: 232
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2cd8f68f164e34a9b23052c8343a63
+      internalID: -1493306912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_4
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 6080
+        width: 1544
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87de55814adda64e94c2ce067b7b7ec
+      internalID: -1229191746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_5
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 6240
+        width: 372
+        height: 1952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938108b320a8dd249b50a56bb03f9da1
+      internalID: 1779799057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_6
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 7792
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25e7f90f14bf54da5830f942959fc3
+      internalID: -1563459482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_7
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 7768
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13956b0509fdd43b467a19c6a85371
+      internalID: -232136586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_8
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 7752
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043bece382b840640aacb7bd5101578f
+      internalID: 392199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_9
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 6848
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df908568ec991a64cb4a27a2cb050163
+      internalID: 303869079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_10
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 6848
+        width: 116
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31723163dce34e14d9d22b2b7eebc05e
+      internalID: -430078140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_11
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 6848
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4aa7854090bb41bc23c4c8f424de6
+      internalID: 1513551521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_12
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 6848
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb02b3dd8d58c4f94c1111dc660f0c
+      internalID: -1302085067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_13
+      rect:
+        serializedVersion: 2
+        x: 5924
+        y: 6848
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb14e7927c358b4a8868814c57ae98b
+      internalID: -135230723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_14
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 6848
+        width: 112
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a683507c483fc946aa4987cb2db5323
+      internalID: -829516866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_15
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 6628
+        width: 212
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635ef7d4f19b704a96c55347248de56
+      internalID: 1156043072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_16
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 6624
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb24c549660a54d408bf9d1cd8d9d5d9
+      internalID: -287346483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6316
+        width: 5316
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4b532d9c8cb0488dcfbe96f961fdf
+      internalID: -1912209106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_18
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 6148
+        width: 268
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84d7b873210b042b73975b91edb4f2
+      internalID: -372428595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_19
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 6148
+        width: 264
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250bdac12f047a44a565c2276600aeb
+      internalID: -1976908644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6248
+        width: 5316
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001ae29fbd0a0744b1dea922a1bb68b
+      internalID: -125046535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5708
+        width: 2800
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d5724987a25f44bc069fd704e7aef
+      internalID: 1474368205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_22
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 5828
+        width: 1704
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c039454e80f94bbf295ab4417cb0b
+      internalID: 1940965820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_23
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 5780
+        width: 408
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43758f097e9b194489aec35e23dadc14
+      internalID: 750034625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_24
+      rect:
+        serializedVersion: 2
+        x: 5444
+        y: 5588
+        width: 216
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76408f2f8ae84b54eb84e21a1259c682
+      internalID: -76076908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_25
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 5584
+        width: 220
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e590c98bba524ba8cf70604bb902c
+      internalID: 790802938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_26
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 5548
+        width: 468
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776bdadbcca94642a8dfc5844a930e6
+      internalID: -467664182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_27
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 5768
+        width: 188
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a39f388aef66478d7b14a9752ea34
+      internalID: 832934044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_28
+      rect:
+        serializedVersion: 2
+        x: 6808
+        y: 5780
+        width: 196
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72013f6c86d9c3f46a6b1a7a4773d2a8
+      internalID: 1323112297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_29
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 5780
+        width: 40
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa2f9df0dc75a43a9985f7ae6c1d3f
+      internalID: -398994319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_30
+      rect:
+        serializedVersion: 2
+        x: 7076
+        y: 5780
+        width: 112
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acbaf54a530f0840b9b8603f938d389
+      internalID: 2089874693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_31
+      rect:
+        serializedVersion: 2
+        x: 7204
+        y: 5776
+        width: 156
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e59dafc98d05994292ac0019df524c1
+      internalID: 349878412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_32
+      rect:
+        serializedVersion: 2
+        x: 7376
+        y: 5772
+        width: 140
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127197d26415f364ba553fc53bc201ac
+      internalID: 597765831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_33
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 5092
+        width: 656
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b628bff26158488ac0885fa1f6f7a
+      internalID: 998434809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4864
+        width: 2808
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcaafaca97cb6a49917e871deb076e4
+      internalID: 167531730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_35
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 5384
+        width: 2108
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21da940fa00fa4393f1d3a38f028d7
+      internalID: -1017188234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_36
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 5620
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734fa5d30ef5384190da544ce72f5a8
+      internalID: -1850640055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_37
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 5620
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186738e76a3cdb4c827444b272f25b1
+      internalID: -1847544983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_38
+      rect:
+        serializedVersion: 2
+        x: 6928
+        y: 5620
+        width: 164
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551da5a07978d484ea22adc5eefc0a66
+      internalID: 2036235598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_39
+      rect:
+        serializedVersion: 2
+        x: 7108
+        y: 5612
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc8e580a4b7dd419f109359e6ffc7c
+      internalID: 647407418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_40
+      rect:
+        serializedVersion: 2
+        x: 7288
+        y: 5612
+        width: 212
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58f72711ee32f43974fc5de70c9e26
+      internalID: -207802426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_41
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 4888
+        width: 1596
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1775c05885290458462dd94d2955ce
+      internalID: 215119666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_42
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 4616
+        width: 476
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be05e7485b98647bee839368605228
+      internalID: -1518452564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_43
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 4636
+        width: 272
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846e1e5d02a66e40a556221fd4b2893
+      internalID: 1094252613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_44
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 4624
+        width: 408
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9044b8e7f4470441adbbf30e73286f3
+      internalID: -1060621333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_45
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 4472
+        width: 940
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45fb33193bd4448a7635ca3823ad0d
+      internalID: -1842268619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_46
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 4436
+        width: 320
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c05a7df1f783642946611441bd3833
+      internalID: 1561859368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_47
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 4616
+        width: 336
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c14cc7de9a8944adba49d79b5d041
+      internalID: -557599468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_48
+      rect:
+        serializedVersion: 2
+        x: 7388
+        y: 4920
+        width: 172
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9eec4e071d5c7498ede2e3caf96a98
+      internalID: -477175388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_49
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 4992
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cbfc4e3527a4a4f9642ce3ff47dd9f
+      internalID: -1157611143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_50
+      rect:
+        serializedVersion: 2
+        x: 7704
+        y: 4056
+        width: 252
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f53865a218c844b7b58b567f93db9
+      internalID: -869463969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_51
+      rect:
+        serializedVersion: 2
+        x: 7964
+        y: 4056
+        width: 224
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37866b4e70f65e94fb4dd873e77b2b8b
+      internalID: 75342621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_52
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 4896
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19fe3f1d27c78449edd6b61abacd56
+      internalID: -785368231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4324
+        width: 1912
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101ef3ca0e8ba6459889b732d0a84ca
+      internalID: -530380664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_54
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 3704
+        width: 140
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbb9b167bcf0b449cb857fc7538713
+      internalID: -1385558852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_55
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 3704
+        width: 136
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6cfc3b849d4dd469f2067972adb914
+      internalID: 916084180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_56
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 3704
+        width: 136
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb47bb4100ddc4daa078cbf7a4427b
+      internalID: 20652615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_57
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 3656
+        width: 136
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303af122909f4ff43a674b4072e72c45
+      internalID: 1174461526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_58
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3656
+        width: 136
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92018e3b86ae38249b7c475e09acd696
+      internalID: 1755331568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_59
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 3656
+        width: 136
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950f3a29b3989b4b8276fe8b8e90310
+      internalID: 1016851041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_60
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 3996
+        width: 908
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8808ab3b40b1f841b604aab67c61cf3
+      internalID: 689546103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_61
+      rect:
+        serializedVersion: 2
+        x: 7412
+        y: 4768
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6f9cbca7aabe478af44a83d075ac9
+      internalID: -1436218568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_62
+      rect:
+        serializedVersion: 2
+        x: 7548
+        y: 4772
+        width: 144
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30267f630ee21014f9d5f7b0c11ca5c7
+      internalID: -123645272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_63
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4332
+        width: 324
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04677d4b6db2843b5be158c77b62f1
+      internalID: 78851726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_64
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 4328
+        width: 324
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cfb299df85fd44a16944d172828b7
+      internalID: -727233933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_65
+      rect:
+        serializedVersion: 2
+        x: 7088
+        y: 4340
+        width: 156
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ddaee0dbb880145a5df5e02086a634
+      internalID: -690803704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_66
+      rect:
+        serializedVersion: 2
+        x: 7444
+        y: 4576
+        width: 240
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f08b502d658e4f9723022e9d50ca2
+      internalID: 1815973326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4060
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c2ac6bc964c142b8c72522597e356
+      internalID: 189966464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4048
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b982012608fb8f4a88ee29b1dce6b51
+      internalID: -551306272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4032
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daf2df6aa4f844da85bb6a8f01e6c5
+      internalID: -366036804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_70
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4000
+        width: 568
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e532b4b518bc6ab41aed35d10b1c47a5
+      internalID: 919822018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_71
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4024
+        width: 748
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210023c6b8211f4085e3b1d6f8c5104
+      internalID: 1817539524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_72
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 4004
+        width: 472
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22162a557a34fd49ac4a3828da27cdd
+      internalID: -941687879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_73
+      rect:
+        serializedVersion: 2
+        x: 7476
+        y: 4004
+        width: 220
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa61586f8ca6a4faa43980b1a4ed97
+      internalID: -1330675684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3516
+        width: 2932
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c932bc12fdeec4f8f3d208921beea0
+      internalID: 1838343601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_75
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 3260
+        width: 976
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03157392f475bf241b5a1d5b3b17c4fc
+      internalID: 1137907369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_76
+      rect:
+        serializedVersion: 2
+        x: 7336
+        y: 3052
+        width: 848
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f354943b67634c8c0d8901fff66f3
+      internalID: -1178616163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2908
+        width: 3048
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751aaf961d00224cbdb473a84f06d3f
+      internalID: -1710594304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_78
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff23475c5c9d13428f7d17d35ee4d16
+      internalID: -111978047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_79
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 3216
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40399638953805448b2039270ceb1737
+      internalID: 1599702461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_80
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 3216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478409986a2e734e8bcfc3b038e0cb9
+      internalID: -913540860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_81
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 3216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1b5a76f2ead749860839cf84933c2
+      internalID: -1627373624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_82
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 3212
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd5f9f0b0d53141aeacf35f1c04113
+      internalID: 314185952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_83
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 3212
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff8502428c9e944bdafbc25d01c5df
+      internalID: -1610899335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_84
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 3212
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc07aa43efb1b41a39ed040907a9d9
+      internalID: -697959608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_85
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff6e5506f4fe7c46becee4fa691427e
+      internalID: 1330836327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_86
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3204
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2254e36e0ad8c9f43bf247cc2bde7130
+      internalID: -1483910561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_87
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 3204
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b0013ff3621354f8e43b2b3ef02e88
+      internalID: -723909068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_88
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 3200
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867487216fd45324f97e697190e9640d
+      internalID: 1243812460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_89
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 3200
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2d11e7cf06c4499971fa324488459
+      internalID: -713852271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_90
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 3200
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0849459773194797e139683c2d739
+      internalID: 307196418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_91
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 3196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1b252d4f6c8b479375bc2daefeba5
+      internalID: 309689691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_92
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 3196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2699116fdca72d41bea98bbd218f079
+      internalID: 1249719059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_93
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 3192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb4693164b61147b00ade9c1f28feb
+      internalID: -744614941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_94
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 3192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3233309317d63f42b16c046c951e5bd
+      internalID: 1176049103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_95
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 3188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2684275bee0f63642944ccb32b2b072d
+      internalID: -1802722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_96
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 3180
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5cd213e0a254429cf897bfdf22e5b
+      internalID: 1846167324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_97
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 3184
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921bd039910a8b40a2f1c354ce9e1eb
+      internalID: 178727290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_98
+      rect:
+        serializedVersion: 2
+        x: 4776
+        y: 3180
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6afd224c5eca524bac32f39a0854acd
+      internalID: -974674849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_99
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3176
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc10a52774419243babcb2db11a3615
+      internalID: -1588572249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_100
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2972
+        width: 212
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0edf4f6fa47843bea87a08c05ad1f
+      internalID: 710263221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_101
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 2976
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0c8862aaf4d149a48d35cd40d680f
+      internalID: 755317710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_102
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2968
+        width: 236
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed4effa5938174c9bbfc25285d769c
+      internalID: -700321001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_103
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 3156
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca1bcba2b1f9e54285c0946a7f66a62
+      internalID: 772405478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_104
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4147a165b88e646a32e46f0bba89fb
+      internalID: -969485157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_105
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 3148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e01a43dfd84648b4f2aa184e10673
+      internalID: 80171061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_106
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651030049d1e41d4f9a7381f8dbe99d6
+      internalID: -1875234260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_107
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 3128
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ba4e48021c034fa870f9bb476123a
+      internalID: -2021439719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_108
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 3116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb0037d24782b94dbf9367631e06a1d
+      internalID: -946950778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_109
+      rect:
+        serializedVersion: 2
+        x: 6004
+        y: 3100
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d950cad9230b154dac39a6fcde5ad89
+      internalID: 731847540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_110
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 3080
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9447b5f2a8064cb45ac8fe691a12b
+      internalID: 999828208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_111
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3072
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0e8073b780da4fb9384740865b2f8
+      internalID: 1998408699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_112
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 3064
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a30f67f6b1cf4aa31f56af862ca8d
+      internalID: -1863306600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_113
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 3060
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf065348ab56f4d988394d02f10980
+      internalID: -257538155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_114
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 3056
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9f91160c50c9439c2c7932ac4b9c9
+      internalID: 1371398842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_115
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 3048
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c70adcfe3e6394a83630d883ed6a8f
+      internalID: -1563574445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_116
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 3040
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683dc2bcdfc39754c9453e8a6d3926b1
+      internalID: 1045691225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_117
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3008
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48f0ce60e829c4f822ea579b53a72f
+      internalID: 1151622712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_118
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 2876
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d5cdb55946a44388ca544e0039f5a
+      internalID: 465829580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_119
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 2992
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed61e0ed3360b4498f6f9893837c4c3
+      internalID: 319701147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_120
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2924
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc30d48c0c79a419b4cde0b5467df1
+      internalID: -1154875171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_121
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 2880
+        width: 4
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa4fb4e130f9a4d84bab89427d32c3
+      internalID: -1510708990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2304
+        width: 3728
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895adcc9808e15540b552679743d45d4
+      internalID: -1375194361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_123
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 2788
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26218c25c2c6d409f5f22a3007c1f7
+      internalID: -2084129605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_124
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2780
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954796033abf814a94ed3a313e12a8f
+      internalID: -815696966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_125
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 2720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfc91e1015c9c24ea3c82261cb60984
+      internalID: 2070125239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_126
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 2644
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b4e523bcef7649a638891effa24f3
+      internalID: 517419599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_127
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 2628
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297e5020778d0747a4490da12454da3
+      internalID: 1881536147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_128
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665013dd3fbf6a54b85e9e5337f39a1a
+      internalID: 284487673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_129
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 2600
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4f37e42e887f49b520103f409605f
+      internalID: 1001517301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_130
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33584b635d160514c8aebb97b3b3d362
+      internalID: 271128421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_131
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 1816
+        width: 1348
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12f1f2364613f4cb6db09ede353637
+      internalID: 1300688681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_132
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 1796
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55fe30e6fd6f4478e2b37ef0f37c1c
+      internalID: 982968213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_133
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 1544
+        width: 1352
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f849b7e9835c48b9f1040deef9018
+      internalID: 377902590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_134
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 1788
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e152f7179eef7c94eaf23e5488c79718
+      internalID: 804623393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_135
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 1780
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b80e01f1c95914984531b65a4afe1b
+      internalID: -860964094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_136
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 1772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7039a2be2a1d4f94b3bce5e79f77d
+      internalID: 516654747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_137
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 1764
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09487145cb92099408cd43071d91e408
+      internalID: -135233891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_138
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 1756
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea832a4f90f2ef4590d68dd02314d6a
+      internalID: 78164673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_139
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1748
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b5b9ef22106b3429146978aa29b50b
+      internalID: 915155350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_140
+      rect:
+        serializedVersion: 2
+        x: 5604
+        y: 1740
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023c8160a7697348a6f87330b0ddd69
+      internalID: -1552436771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_141
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 1732
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec17f7c824fd8428419b79fc97c680
+      internalID: -560515630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_142
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1724
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c446fa9d5ab8428de87562a6a3f65
+      internalID: -1453852321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_143
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1716
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6537639a5995144a908789a5b46785
+      internalID: -529042335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_144
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 1708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291c38609218bf4b883ef114df8e70a
+      internalID: -1498933492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_145
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 1700
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc2029590cd094fa062bfd2637943f
+      internalID: -1683593902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_146
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 1692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c392b9f2976164bb7059e3a92c56f4
+      internalID: -919456033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_147
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a3b84e3b8579e4b818133c41d12eec
+      internalID: 335163726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_148
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 1676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7b8c921181094b9ec3b6198c8414b
+      internalID: -1747607525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_149
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 1668
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb27091c2101c4db453e07cdbad667
+      internalID: 623500615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_150
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 1660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfb104b37ef0bb47945a33b44342084
+      internalID: 2027803174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_151
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1576
+        width: 4
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d71a0a2d24df646a482eab1a04c9f7
+      internalID: -509549145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_152
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 1652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29061ff6625c4924a96b22ef9c2c2956
+      internalID: -42543033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_153
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 1644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e96500ded1784ab840f5d495b4485
+      internalID: 233440091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_154
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 1636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc925064155d847884bed76c99c965
+      internalID: 1224470511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_155
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 1628
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5746e1e4578842a2849c135260e38
+      internalID: -825136814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_156
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 1620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7a79ab54d52a429445bf44c9cdd1f
+      internalID: -365700261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_157
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 1612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499798c54135ec142b4b9dcc5b3b2dee
+      internalID: 1089363407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_158
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 1604
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799fa97495cd2dd4b8fb924d9672d7d8
+      internalID: 1902836644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_159
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 1596
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758cb8db79d8d64b9ab0e964eb0d541
+      internalID: -822806947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_160
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 844
+        width: 1472
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ae5ca0040e294597e0803f85fe5c7
+      internalID: -209528618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_161
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 1588
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d00fa05c7e41249b332fa1b38bd40f
+      internalID: -1710245840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_162
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 1580
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c825b540169cbd41b506d3fc4fd80ad
+      internalID: -478556738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_163
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 1572
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff0d1070cceeb47bdd299c499fc1e5
+      internalID: -1680877730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_164
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 1564
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4913d51a640a4843bca8c027f919da4
+      internalID: 558652580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 1492
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07318a5dab4dc4ba8f663f1f9bb019
+      internalID: -171947254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_166
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 1556
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959022076368834408f946caa74fc7ba
+      internalID: 423079249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_167
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 1536
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c6b94bdc939b4c9fa942031f35afe
+      internalID: -353210864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_168
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 1528
+        width: 1068
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839b089bf6ef334aa44a31eda485d3b
+      internalID: -1460543172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_169
+      rect:
+        serializedVersion: 2
+        x: 6792
+        y: 1276
+        width: 1328
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89759c625db5e7449cd50aed447bed0
+      internalID: 2046249655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_170
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1520
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d5e738c2d1b648bd2b8d3ab4efa2d
+      internalID: -853758473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_171
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 1268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1178f273e71d3438c431fcd6bfc444
+      internalID: 877054446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_172
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 1252
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626eabe843cb8a846b4fc371576a0f25
+      internalID: -988193247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_173
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 996
+        width: 1376
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab75952d8f1df45927e0c79ebdaf09
+      internalID: -1727508602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_174
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1000
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7a00bbfba7ec4fb1b05587637e318
+      internalID: -1882244413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_175
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 980
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce385a114b18134bb5f2b78a49497e9
+      internalID: -2028200996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_176
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 724
+        width: 1384
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08263e387f9e746baf5a47da8ffc3f
+      internalID: 2110026443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_177
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 976
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538030af4e89dcb40846693dac4e97ed
+      internalID: -849231657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5324
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761a30115245a444a2226be4c9fcfc6
+      internalID: -921325071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_179
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 716
+        width: 724
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24633eff621b8584fb20450b1f4f7041
+      internalID: 56449830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_180
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 716
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436ed44a8d08a9499497c01121beef8
+      internalID: 958174568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_181
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 700
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa7eccf419931443944106f7c387b42
+      internalID: 1685281642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_182
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 484
+        width: 1392
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c4877f378baea4ab6987ff698b0b60
+      internalID: -1670133827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_183
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f382f82e19aa59449be31a96b24d824
+      internalID: 302011218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_184
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc870ad8eb50174c9019006ba9c3916
+      internalID: -999868928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_185
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671e78d0c13c0e4d96dc84ce3197b75
+      internalID: 1650605050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_186
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc594592252456c47a60d2cb024c87dd
+      internalID: 1401122002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_187
+      rect:
+        serializedVersion: 2
+        x: 8036
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa39551e04753f4c8c86e0b32a1be32
+      internalID: -1368025704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_188
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 464
+        width: 724
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d613fee34ee04f89459c41f64b263
+      internalID: 1993723333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_189
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 240
+        width: 1328
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42da46afcec5c04f925b42f4504d5ba
+      internalID: 340158643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_190
+      rect:
+        serializedVersion: 2
+        x: 7076
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c613bc75d41c4cb17f4d03212dda8
+      internalID: 2049711040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_191
+      rect:
+        serializedVersion: 2
+        x: 7220
+        y: 228
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31642e87c007e3240bee985c91d74b87
+      internalID: 1461900122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_192
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a65b0c3cf6f7543a16a93e18a89635
+      internalID: 2032730568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_193
+      rect:
+        serializedVersion: 2
+        x: 6876
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba81e8ea1d1d3c4fa25c1aba7393296
+      internalID: -1543788919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_194
+      rect:
+        serializedVersion: 2
+        x: 7092
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937e05d6de697c48a4b3e22685fe7ce
+      internalID: -275414872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_195
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c80c1dbfed57642a664e70276a75a8
+      internalID: -1416112004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_196
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef4e5670ebf9d4f945afab69c50578
+      internalID: -1114442662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_197
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 0
+        width: 1164
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf51e564549fb98408950216fa74ede9
+      internalID: 1157715294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S3_Ship_Bridge_color_198
+      rect:
+        serializedVersion: 2
+        x: 7972
+        y: 212
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51429005778400b44930a60f41631e44
+      internalID: -98957594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      S3_Ship_Bridge_color_42: -1518452564
+      S3_Ship_Bridge_color_71: 1817539524
+      S3_Ship_Bridge_color_68: -551306272
+      S3_Ship_Bridge_color_175: -2028200996
+      S3_Ship_Bridge_color_16: -287346483
+      S3_Ship_Bridge_color_162: -478556738
+      S3_Ship_Bridge_color_197: 1157715294
+      S3_Ship_Bridge_color_3: -1493306912
+      S3_Ship_Bridge_color_57: 1174461526
+      S3_Ship_Bridge_color_179: 56449830
+      S3_Ship_Bridge_color_44: -1060621333
+      S3_Ship_Bridge_color_189: 340158643
+      S3_Ship_Bridge_color_40: -207802426
+      S3_Ship_Bridge_color_87: -723909068
+      S3_Ship_Bridge_color_98: -974674849
+      S3_Ship_Bridge_color_152: -42543033
+      S3_Ship_Bridge_color_13: -135230723
+      S3_Ship_Bridge_color_138: 78164673
+      S3_Ship_Bridge_color_119: 319701147
+      S3_Ship_Bridge_color_161: -1710245840
+      S3_Ship_Bridge_color_20: -125046535
+      S3_Ship_Bridge_color_8: 392199133
+      S3_Ship_Bridge_color_173: -1727508602
+      S3_Ship_Bridge_color_150: 2027803174
+      S3_Ship_Bridge_color_164: 558652580
+      S3_Ship_Bridge_color_195: -1416112004
+      S3_Ship_Bridge_color_50: -869463969
+      S3_Ship_Bridge_color_176: 2110026443
+      S3_Ship_Bridge_color_157: 1089363407
+      S3_Ship_Bridge_color_7: -232136586
+      S3_Ship_Bridge_color_133: 377902590
+      S3_Ship_Bridge_color_166: 423079249
+      S3_Ship_Bridge_color_46: 1561859368
+      S3_Ship_Bridge_color_97: 178727290
+      S3_Ship_Bridge_color_34: 167531730
+      S3_Ship_Bridge_color_134: 804623393
+      S3_Ship_Bridge_color_89: -713852271
+      S3_Ship_Bridge_color_188: 1993723333
+      S3_Ship_Bridge_color_55: 916084180
+      S3_Ship_Bridge_color_56: 20652615
+      S3_Ship_Bridge_color_117: 1151622712
+      S3_Ship_Bridge_color_116: 1045691225
+      S3_Ship_Bridge_color_147: 335163726
+      S3_Ship_Bridge_color_30: 2089874693
+      S3_Ship_Bridge_color_160: -209528618
+      S3_Ship_Bridge_color_78: -111978047
+      S3_Ship_Bridge_color_127: 1881536147
+      S3_Ship_Bridge_color_33: 998434809
+      S3_Ship_Bridge_color_37: -1847544983
+      S3_Ship_Bridge_color_29: -398994319
+      S3_Ship_Bridge_color_43: 1094252613
+      S3_Ship_Bridge_color_143: -529042335
+      S3_Ship_Bridge_color_196: -1114442662
+      S3_Ship_Bridge_color_14: -829516866
+      S3_Ship_Bridge_color_39: 647407418
+      S3_Ship_Bridge_color_169: 2046249655
+      S3_Ship_Bridge_color_67: 189966464
+      S3_Ship_Bridge_color_80: -913540860
+      S3_Ship_Bridge_color_100: 710263221
+      S3_Ship_Bridge_color_139: 915155350
+      S3_Ship_Bridge_color_92: 1249719059
+      S3_Ship_Bridge_color_193: -1543788919
+      S3_Ship_Bridge_color_1: 193063756
+      S3_Ship_Bridge_color_153: 233440091
+      S3_Ship_Bridge_color_141: -560515630
+      S3_Ship_Bridge_color_109: 731847540
+      S3_Ship_Bridge_color_144: -1498933492
+      S3_Ship_Bridge_color_170: -853758473
+      S3_Ship_Bridge_color_17: -1912209106
+      S3_Ship_Bridge_color_28: 1323112297
+      S3_Ship_Bridge_color_25: 790802938
+      S3_Ship_Bridge_color_125: 2070125239
+      S3_Ship_Bridge_color_21: 1474368205
+      S3_Ship_Bridge_color_47: -557599468
+      S3_Ship_Bridge_color_167: -353210864
+      S3_Ship_Bridge_color_15: 1156043072
+      S3_Ship_Bridge_color_103: 772405478
+      S3_Ship_Bridge_color_158: 1902836644
+      S3_Ship_Bridge_color_142: -1453852321
+      S3_Ship_Bridge_color_107: -2021439719
+      S3_Ship_Bridge_color_0: 1540918932
+      S3_Ship_Bridge_color_140: -1552436771
+      S3_Ship_Bridge_color_186: 1401122002
+      S3_Ship_Bridge_color_52: -785368231
+      S3_Ship_Bridge_color_146: -919456033
+      S3_Ship_Bridge_color_81: -1627373624
+      S3_Ship_Bridge_color_11: 1513551521
+      S3_Ship_Bridge_color_18: -372428595
+      S3_Ship_Bridge_color_123: -2084129605
+      S3_Ship_Bridge_color_194: -275414872
+      S3_Ship_Bridge_color_96: 1846167324
+      S3_Ship_Bridge_color_59: 1016851041
+      S3_Ship_Bridge_color_111: 1998408699
+      S3_Ship_Bridge_color_69: -366036804
+      S3_Ship_Bridge_color_121: -1510708990
+      S3_Ship_Bridge_color_137: -135233891
+      S3_Ship_Bridge_color_192: 2032730568
+      S3_Ship_Bridge_color_118: 465829580
+      S3_Ship_Bridge_color_163: -1680877730
+      S3_Ship_Bridge_color_22: 1940965820
+      S3_Ship_Bridge_color_77: -1710594304
+      S3_Ship_Bridge_color_190: 2049711040
+      S3_Ship_Bridge_color_85: 1330836327
+      S3_Ship_Bridge_color_75: 1137907369
+      S3_Ship_Bridge_color_84: -697959608
+      S3_Ship_Bridge_color_12: -1302085067
+      S3_Ship_Bridge_color_145: -1683593902
+      S3_Ship_Bridge_color_135: -860964094
+      S3_Ship_Bridge_color_180: 958174568
+      S3_Ship_Bridge_color_32: 597765831
+      S3_Ship_Bridge_color_101: 755317710
+      S3_Ship_Bridge_color_114: 1371398842
+      S3_Ship_Bridge_color_102: -700321001
+      S3_Ship_Bridge_color_122: -1375194361
+      S3_Ship_Bridge_color_165: -171947254
+      S3_Ship_Bridge_color_112: -1863306600
+      S3_Ship_Bridge_color_171: 877054446
+      S3_Ship_Bridge_color_70: 919822018
+      S3_Ship_Bridge_color_61: -1436218568
+      S3_Ship_Bridge_color_31: 349878412
+      S3_Ship_Bridge_color_45: -1842268619
+      S3_Ship_Bridge_color_36: -1850640055
+      S3_Ship_Bridge_color_129: 1001517301
+      S3_Ship_Bridge_color_82: 314185952
+      S3_Ship_Bridge_color_79: 1599702461
+      S3_Ship_Bridge_color_60: 689546103
+      S3_Ship_Bridge_color_149: 623500615
+      S3_Ship_Bridge_color_24: -76076908
+      S3_Ship_Bridge_color_198: -98957594
+      S3_Ship_Bridge_color_124: -815696966
+      S3_Ship_Bridge_color_182: -1670133827
+      S3_Ship_Bridge_color_86: -1483910561
+      S3_Ship_Bridge_color_10: -430078140
+      S3_Ship_Bridge_color_94: 1176049103
+      S3_Ship_Bridge_color_148: -1747607525
+      S3_Ship_Bridge_color_172: -988193247
+      S3_Ship_Bridge_color_151: -509549145
+      S3_Ship_Bridge_color_66: 1815973326
+      S3_Ship_Bridge_color_48: -477175388
+      S3_Ship_Bridge_color_159: -822806947
+      S3_Ship_Bridge_color_23: 750034625
+      S3_Ship_Bridge_color_2: 127586105
+      S3_Ship_Bridge_color_178: -921325071
+      S3_Ship_Bridge_color_72: -941687879
+      S3_Ship_Bridge_color_91: 309689691
+      S3_Ship_Bridge_color_76: -1178616163
+      S3_Ship_Bridge_color_93: -744614941
+      S3_Ship_Bridge_color_64: -727233933
+      S3_Ship_Bridge_color_136: 516654747
+      S3_Ship_Bridge_color_155: -825136814
+      S3_Ship_Bridge_color_83: -1610899335
+      S3_Ship_Bridge_color_73: -1330675684
+      S3_Ship_Bridge_color_35: -1017188234
+      S3_Ship_Bridge_color_191: 1461900122
+      S3_Ship_Bridge_color_74: 1838343601
+      S3_Ship_Bridge_color_113: -257538155
+      S3_Ship_Bridge_color_132: 982968213
+      S3_Ship_Bridge_color_130: 271128421
+      S3_Ship_Bridge_color_187: -1368025704
+      S3_Ship_Bridge_color_38: 2036235598
+      S3_Ship_Bridge_color_58: 1755331568
+      S3_Ship_Bridge_color_131: 1300688681
+      S3_Ship_Bridge_color_4: -1229191746
+      S3_Ship_Bridge_color_115: -1563574445
+      S3_Ship_Bridge_color_126: 517419599
+      S3_Ship_Bridge_color_19: -1976908644
+      S3_Ship_Bridge_color_168: -1460543172
+      S3_Ship_Bridge_color_9: 303869079
+      S3_Ship_Bridge_color_95: -1802722260
+      S3_Ship_Bridge_color_105: 80171061
+      S3_Ship_Bridge_color_5: 1779799057
+      S3_Ship_Bridge_color_51: 75342621
+      S3_Ship_Bridge_color_53: -530380664
+      S3_Ship_Bridge_color_63: 78851726
+      S3_Ship_Bridge_color_156: -365700261
+      S3_Ship_Bridge_color_183: 302011218
+      S3_Ship_Bridge_color_185: 1650605050
+      S3_Ship_Bridge_color_108: -946950778
+      S3_Ship_Bridge_color_62: -123645272
+      S3_Ship_Bridge_color_110: 999828208
+      S3_Ship_Bridge_color_174: -1882244413
+      S3_Ship_Bridge_color_120: -1154875171
+      S3_Ship_Bridge_color_106: -1875234260
+      S3_Ship_Bridge_color_181: 1685281642
+      S3_Ship_Bridge_color_177: -849231657
+      S3_Ship_Bridge_color_41: 215119666
+      S3_Ship_Bridge_color_128: 284487673
+      S3_Ship_Bridge_color_27: 832934044
+      S3_Ship_Bridge_color_49: -1157611143
+      S3_Ship_Bridge_color_90: 307196418
+      S3_Ship_Bridge_color_184: -999868928
+      S3_Ship_Bridge_color_6: -1563459482
+      S3_Ship_Bridge_color_65: -690803704
+      S3_Ship_Bridge_color_54: -1385558852
+      S3_Ship_Bridge_color_104: -969485157
+      S3_Ship_Bridge_color_88: 1243812460
+      S3_Ship_Bridge_color_99: -1588572249
+      S3_Ship_Bridge_color_154: 1224470511
+      S3_Ship_Bridge_color_26: -467664182
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
